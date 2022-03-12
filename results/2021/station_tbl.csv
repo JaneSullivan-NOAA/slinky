@@ -1,0 +1,7 @@
+Station,Date,Gear,Start Time,End Time,Soak Time (hr),Start Latitude,Start Longitude,End Latitude,End Longitude,Number of hook skates or pots fished,Minimum Depth (m),Maximum Depth (m)
+Exp_Set1,07/24/2021,Hook-and-line,630,930,3,5858.91 N,14118.00 W,5900.69 N,14110.37 W,90,433,646
+,,Slinky pots,500,1405,9.1,5901.47 N,14115.55 W,5859.71 N,14120.90 W,87,396,648
+Exp_Set2,07/28/2021,Hook-and-line,605,917,3.1,5933.25 N,14258.65 W,5930.86 N,14306.97 W,90,585,648
+,,Slinky pots,500,1457,9.6,5935.03 N,14252.96 W,5932.31 N,14257.86 W,90,585,651
+Exp_Set3,07/29/2021,Hook-and-line,625,930,3,5931.62 N,14316.25 W,5930.07 N,14324.04 W,92,531,670
+,,Slinky pots,505,1400,8.9,5932.30 N,14310.08 W,5930.37 N,14315.83 W,91,564,689

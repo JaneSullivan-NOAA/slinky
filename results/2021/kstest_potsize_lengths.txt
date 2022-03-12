@@ -1,0 +1,7 @@
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  sablelenpots$length[sablelenpots$pot_size == "Large"] and sablelenpots$length[sablelenpots$pot_size == "Small"]
+D = 0.20052, p-value = 9.711e-09
+alternative hypothesis: two-sided
+

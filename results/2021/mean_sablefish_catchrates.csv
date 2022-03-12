@@ -1,0 +1,9 @@
+gear,station,mean_sablefish_catch_rate,cv_sablefish_catch_rate
+HAL,Exp_Set1,14.1,0.5
+HAL,Exp_Set2,15.5,0.3
+HAL,Exp_Set3,17.7,0.3
+HAL,All_sets_combined,15.8,0.4
+POT,Exp_Set1,5.8,0.8
+POT,Exp_Set2,9,0.6
+POT,Exp_Set3,10.5,0.5
+POT,All_sets_combined,8.5,0.6

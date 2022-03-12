@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  potsize %>% filter(pot_size == "Small") %>% pull(n_sablefish) and potsize %>% filter(pot_size == "Large") %>% pull(n_sablefish)
+t = -1.255, df = 32.087, p-value = 0.2186
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -4.0192412  0.9545282
+sample estimates:
+mean of x mean of y 
+ 8.324786  9.857143 
+

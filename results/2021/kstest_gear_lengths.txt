@@ -1,0 +1,7 @@
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  lengths$length[lengths$gear == "Slinky pots" & lengths$species ==  and lengths$length[lengths$gear == "Hook-and-line" & lengths$species ==     "Sablefish"] and     "Sablefish"]
+D = 0.035834, p-value = 0.0569
+alternative hypothesis: two-sided
+

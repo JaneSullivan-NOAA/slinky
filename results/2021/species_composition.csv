@@ -1,0 +1,33 @@
+gear,station,species,n,prop,Species
+HAL,Exp_Set1,Arrowtooth Flounder,3,0.001951854261548471,Arrowtooth Flounder
+HAL,Exp_Set1,Giant Grenadier,129,0.08392973324658426,Giant Grenadier
+HAL,Exp_Set1,Rougheye Rockfish,8,0.00520494469746259,Rougheye Rockfish
+HAL,Exp_Set1,Sablefish,1267,0.8243331164606376,Sablefish
+HAL,Exp_Set1,Shortraker Rockfish,52,0.03383214053350683,Shortraker Rockfish
+HAL,Exp_Set1,Shortspine Thornyhead,78,0.05074821080026025,Shortspine Thornyhead
+HAL,Exp_Set2,Giant Grenadier,226,0.12906910336950314,Giant Grenadier
+HAL,Exp_Set2,Rougheye Rockfish,5,0.0028555111364934323,Rougheye Rockfish
+HAL,Exp_Set2,Sablefish,1396,0.7972587093089663,Sablefish
+HAL,Exp_Set2,Shortraker Rockfish,0,0,Shortraker Rockfish
+HAL,Exp_Set2,Shortspine Thornyhead,124,0.07081667618503712,Shortspine Thornyhead
+HAL,Exp_Set3,Arrowtooth Flounder,2,0.0010678056593699946,Arrowtooth Flounder
+HAL,Exp_Set3,Giant Grenadier,184,0.0982381206620395,Giant Grenadier
+HAL,Exp_Set3,Rougheye Rockfish,2,0.0010678056593699946,Rougheye Rockfish
+HAL,Exp_Set3,Sablefish,1628,0.8691938067271756,Sablefish
+HAL,Exp_Set3,Shortraker Rockfish,0,0,Shortraker Rockfish
+HAL,Exp_Set3,Shortspine Thornyhead,57,0.030432461292044848,Shortspine Thornyhead
+POT,Exp_Set1,Arrowtooth Flounder,7,0.01338432122370937,Arrowtooth Flounder
+POT,Exp_Set1,Giant Grenadier,6,0.011472275334608031,Giant Grenadier
+POT,Exp_Set1,Rougheye Rockfish,11,0.021032504780114723,Rougheye Rockfish
+POT,Exp_Set1,Sablefish,496,0.9483747609942639,Sablefish
+POT,Exp_Set1,Shortraker Rockfish,3,0.0057361376673040155,Shortraker Rockfish
+POT,Exp_Set2,Arrowtooth Flounder,2,0.002398081534772182,Arrowtooth Flounder
+POT,Exp_Set2,Giant Grenadier,18,0.02158273381294964,Giant Grenadier
+POT,Exp_Set2,Sablefish,811,0.9724220623501199,Sablefish
+POT,Exp_Set2,Shortspine Thornyhead,2,0.002398081534772182,Shortspine Thornyhead
+POT,Exp_Set2,Tanneri Tanner Crab,1,0.001199040767386091,Tanneri Tanner Crab
+POT,Exp_Set3,Arrowtooth Flounder,2,0.002074688796680498,Arrowtooth Flounder
+POT,Exp_Set3,Dover Sole,1,0.001037344398340249,Dover Sole
+POT,Exp_Set3,Giant Grenadier,17,0.017634854771784232,Giant Grenadier
+POT,Exp_Set3,Sablefish,942,0.9771784232365145,Sablefish
+POT,Exp_Set3,Shortspine Thornyhead,2,0.002074688796680498,Shortspine Thornyhead
