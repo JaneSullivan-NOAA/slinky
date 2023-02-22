@@ -281,15 +281,15 @@ p1 <- catchrates %>%
   filter(gear == "HAL") %>% 
   ggplot(aes(x = station, y = n_sablefish)) +
   geom_boxplot() +
-  # labs(x = NULL, y = NULL, title = "Sablefish per skate")
-  labs(x = NULL, y = "Number per skate")
+  labs(x = NULL, y = NULL, title = "Sablefish per skate")
+  # labs(x = NULL, y = "Number per skate")
 
 p2 <- catchrates %>% 
   filter(gear == "POT") %>% 
   ggplot(aes(x = station, y = n_sablefish)) +
   geom_boxplot() +
-  # labs(x = NULL, y = NULL, title = "Sablefish per pot")
-  labs(x = NULL, y = "Number per pot")
+  labs(x = NULL, y = NULL, title = "Sablefish per pot")
+  # labs(x = NULL, y = "Number per pot")
 
 catch_plot <- plot_grid(p1, p2)
 catch_plot
@@ -409,8 +409,11 @@ cor_dep_p2 <- std_dep %>%
   annotate(geom = "text", x = 450, y = 1.8, 
            label = paste0("Pearson's rho: ", round(cor_dep$cor, 2))) +
   labs(x = "Depth (m)", y = "Standardized catch rates by gear",
-       col = NULL, lty = NULL, lty = NULL, shape = NULL)
-
+       col = NULL, lty = NULL, lty = NULL, shape = NULL) +
+  theme_bw() + 
+  theme(panel.border = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
 cor_dep_p2
 
 ggsave(plot = cor_dep_p2,
@@ -677,7 +680,11 @@ ggplot(lengths %>%
        aes(x = length, col = gear, fill = gear)) +
   geom_density(alpha = 0.2, adjust= 1.5) +
   facet_wrap(~station, ncol = 1) +
-  labs(x = "Fork length (cm)", y = "Density", color = NULL, fill = NULL)
+  labs(x = "Fork length (cm)", y = "Length distribution", color = NULL, fill = NULL) +
+  theme_bw() + 
+  theme(panel.border = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
 
 ggsave(paste0(res_path, "/length_comps_station.png"), dpi = 400, units = "in",
        height = 8, width = 5)
@@ -867,3 +874,68 @@ write_csv(rec_tbl, paste0(res_path, "/potspacing_recommendations.csv"))
 # 1.  Use a single size of slinky pots with 8.9 cm escape rings; and   
 # 2.  Eliminate the use of cannonballs between pots, which was found to be unnecessary.
 # 
+
+
+# Standardize output ----
+
+# only sablefish, giant grenadier, spiny dogfish, Pacific cod, and Greenland
+# turbot are recorded by sex
+
+lengths_clean <- lengths %>% 
+  mutate(gear = ifelse(gear == 'Hook-and-line', 'Hooks', gear),
+         year = 2021,
+         stratum = case_when(stratum == 4 ~ '301-400 m',
+                             stratum == 5 ~ '401-600 m', 
+                             stratum == 6 ~ '601-800 m'),
+         sex = ifelse(species %in% c("Sablefish", "Giant Grenadier", "Spiny Dogfish"),
+                      sex, "U"),
+         date = as.Date(case_when(station == 'Exp_Set1' ~ '2021/07/24',
+                                  station == 'Exp_Set2' ~ '2021/07/28',
+                                  station == 'Exp_Set3' ~ '2021/07/29')),
+         station = case_when(station == 'Exp_Set1' ~ 201,
+                             station == 'Exp_Set2' ~ 202,
+                             station == 'Exp_Set3' ~ 203),
+         escape_ring = ifelse(gear == 'Slinky pots' & pot_size == 'Small', 'Four 3.5 inch escape rings', 
+                              ifelse(gear == 'Slinky pots' & pot_size == 'Large', 'Four modified 4 inch escape rings', NA))
+         ) %>% 
+  mutate(sex = case_when(sex == 'M' ~ 'Male',
+                         sex == 'F' ~ 'Female',
+                         sex == 'U' ~ 'Unidentified')) %>% 
+  select(year, date, gear, station, haul, stratum, species, sex, length, pot_size, escape_ring) %>% 
+  arrange(date, station, haul)
+
+catch_clean <- catchsum %>% 
+  left_join(catch %>% 
+              distinct(station, haul, skate, depth) %>% 
+              group_by(station, haul, skate) %>% 
+              dplyr::summarise(depth = sum(depth)) %>% 
+              group_by(station, haul) %>%
+              mutate(depth = ifelse(depth == 0, NA, depth),
+                     depth = zoo::na.approx(depth, rule = 2)) %>% 
+              ungroup(),
+            by = c("station", "haul", "skate"),
+            multiple = "all") %>% 
+  mutate(gear = ifelse(gear == 'HAL', 'Hooks', 'Slinky pots'),
+         pot_size = ifelse(pot_size == 'Hooks', NA, ifelse(pot_size == 'Large pots', 'Large', 'Small')),
+         year = 2021,
+         date = as.Date(case_when(station == 'Exp_Set1' ~ '2021/07/24',
+                                  station == 'Exp_Set2' ~ '2021/07/28',
+                                  station == 'Exp_Set3' ~ '2021/07/29')),
+         station = case_when(station == 'Exp_Set1' ~ 201,
+                             station == 'Exp_Set2' ~ 202,
+                             station == 'Exp_Set3' ~ 203),
+         escape_ring_notes = escape_ring,
+         escape_ring = ifelse(gear == 'Slinky pots' & pot_size == 'Small', 'Four 3.5 inch escape rings', 
+                              ifelse(gear == 'Slinky pots' & pot_size == 'Large', 'Four modified 4 inch escape rings', NA))
+         ) %>% 
+  select(year, date,  gear, station, haul, skate_or_pot = skate, depth, species, catch, depredation, pot_size, escape_ring, escape_ring_notes) %>% 
+  arrange(date, station, haul)
+
+
+lengths_clean
+write_csv(lengths_clean, paste0("results/synthesis/clean_lengths_2021.csv"))
+
+catch_clean
+write_csv(catch_clean, paste0("results/synthesis/clean_catch_2021.csv"))
+
+
