@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+# Confidential data
+confidential
+data/confidential
+
 # Session Data files
 .RData
 
