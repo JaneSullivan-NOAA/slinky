@@ -1,0 +1,356 @@
+---
+title: "slinky_synthesis"
+author: "Matthew LH. Cheng"
+date: "4/10/2023"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(here)
+library(lubridate)
+library(ggthemes)
+
+# Bring in sable fish catch rate data
+sabcatch_rates <- read.csv(here("results", "2021", "2021_catchrates_clean.csv")) %>% 
+  mutate(year = 2021) %>% 
+  bind_rows(read.csv(here("results", "2022", "2022_catchrates_clean.csv")) %>% mutate(year = 2022)) 
+
+# Munging gear names and station names
+sabcatch_rates <- sabcatch_rates %>% 
+  mutate(gear = ifelse(gear == "HAL", "Hooks",
+                       ifelse(gear == "POT", "Slinky pots", gear)),
+        station = case_when(station == 'Day 1' ~ 201,
+                            station == 'Day 2' ~ 202,
+                            station == 'Day 3' ~ 203,
+                            station == 'Exp_Set1' ~ 201,
+                            station == 'Exp_Set2' ~ 202,
+                            station == 'Exp_Set3' ~ 203))
+
+# Bind in length data
+lens <- read_csv(here("results", "synthesis", "clean_lengths_2021.csv")) %>% 
+  bind_rows(read_csv(here("results", "synthesis", "clean_lengths_2022.csv")))
+```
+
+# Length distributions (Aggregate)
+
+Key Takeaways: When aggregating among years, the median fork lengths are the same. Looking at length distributions, the HAL appears to marginally select for larger fish. In 2021, when aggregated across stations, slinky pots appear to select larger fish. in 2022, slinky pots appear to select the same size of fish wrt median, but the distributions suggest that slinky pots select smaller fish (interesting the medians line up so well, especially given that the escape rings were closed). This is most likely a consequence of the escape rings. When looking at FL across stations and years, we see similar patterns across years. Also, it's fairly apparent that for station 202 in 2022, slinky pots selects for smaller fish.  Nonetheless, I would argue that the length distributions between gears coincide with each other fairly well.
+```{r}
+# Length distributions aggregated across stations, years, and species
+lens %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.5)  +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear") +
+  facet_wrap(~species) +
+  theme_bw() +
+  theme(legend.position = "top") 
+
+# Sablefish lengths aggregated
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear) %>% 
+  summarize(median = median(length))
+
+# lengths across gear types
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.4)  + 
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  theme_bw() +
+  theme(legend.position = "top") 
+
+# Sablefish lengths aggregated and across years
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear, year) %>% 
+  summarize(median = median(length))
+
+# lengths across years
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.4)  + 
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  facet_wrap(~year) +
+  theme_bw() +
+  theme(legend.position = "top") 
+
+# Sablefish lengths aggregated stations
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear, year, station) %>% 
+  summarize(median = median(length))
+
+# Sablefish lengths by years and station
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.4)  +
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  facet_grid(year~station) +
+  theme_bw() +
+  theme(legend.position = "top") 
+```
+
+# Length Distributions (by depth)
+Similar to plots explored above, length distributions follow simlar patterns. Length distributions are fairly similar, irrespective of depth strata. Additionally, station 202 shows the same pattern of slinky pots selecting smaller fish across all strata sampled.
+
+```{r}
+# Median lengths by gear and strata
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear, stratum) %>% 
+  summarize(median = median(length))
+
+# Gear and stratum
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.5)  +
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  facet_wrap(~stratum, ncol = 1) +
+  theme_bw() +
+  theme(legend.position = "top") 
+
+# Sablefish lengths aggregated stations and stratum
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear, stratum, station) %>% 
+  summarize(median = median(length))
+
+# lengths across strata and station
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.5)  +
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  facet_grid(stratum~station) +
+  theme_bw() +
+  theme(legend.position = "top") 
+
+# Sablefish lengths aggregated stations and stratum
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear, stratum, year) %>% 
+  summarize(median = median(length))
+
+# lengths across stratum and year
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.5)  +
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  facet_grid(year~stratum) +
+  theme_bw() +
+  theme(legend.position = "top") 
+```
+
+# Length Distribution (Sexes)
+
+Looking at length distributions by sexes, it seems like males are selected at smaller sizes relative to females across all gear types. Nonetheless, these distributions are once again fairly similar with each other - except for station 202. 
+```{r}
+# Sablefish lengths aggregated stations and stratum
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish") %>% 
+  group_by(gear, station, sex) %>% 
+  summarize(median = median(length))
+
+lens %>% 
+  filter(species == "Sablefish") %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.5)  +
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear), lty = 2, size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", color = "Gear") +
+  facet_grid(station~sex) +
+  theme_bw() +
+  theme(legend.position = "top") 
+```
+
+# Sex-Ratios
+Across all gear types, it seems like the survey selects for more males (or could be a skewed population sex-ratio). In general, it also appears that slinky pots select for more females, although they're pretty close and these data come from a limited sample size - can't really say much about this. 
+```{r}
+# Sex-ratios aggregated
+lens %>% 
+  filter(species == 'Sablefish') %>% 
+  group_by(gear, sex) %>% 
+  summarize(n = n()) %>% 
+  mutate(sex_ratio = n / sum(n)) %>% 
+  ggplot(aes(x = gear, y = sex_ratio, col = sex, fill = sex)) +
+  geom_bar(stat = 'identity', alpha = 0.3) +
+  geom_hline(aes(yintercept = 0.5), lty = 2) +
+  labs(x = NULL, y = "Sex ratio", col = "Sex", fill = "Sex")
+
+# Sex-ratios by station
+lens %>% 
+  filter(species == 'Sablefish') %>% 
+  group_by(station, gear, sex) %>% 
+  summarize(n = n()) %>% 
+  group_by(station, gear) %>% 
+  mutate(sex_ratio = n / sum(n)) %>% 
+  ggplot(aes(x = gear, y = sex_ratio, col = sex, fill = sex)) +
+  geom_bar(stat = 'identity', alpha = 0.3) +
+  geom_hline(aes(yintercept = 0.5), lty = 2) +
+  facet_wrap(~ station) +
+  labs(x = NULL, y = "Sex ratio", col = "Sex", fill = "Sex") +
+  theme(legend.position = "top")
+
+# Sex-ratios by station and year
+lens %>% 
+  filter(species == 'Sablefish') %>% 
+  group_by(station, gear, sex, year) %>% 
+  summarize(n = n()) %>% 
+  group_by(station, gear, year) %>% 
+  mutate(sex_ratio = n / sum(n)) %>% 
+  ggplot(aes(x = gear, y = sex_ratio, col = sex, fill = sex)) +
+  geom_bar(stat = 'identity', alpha = 0.3) +
+  geom_hline(aes(yintercept = 0.5), lty = 2) +
+  facet_grid(year~ station) +
+  labs(x = NULL, y = "Sex ratio", col = "Sex", fill = "Sex") +
+  theme(legend.position = "top")
+```
+
+# General Catch Rate Trends
+Key Takeaways: In general, one skate =/ one pot. We consistently catch less per pot relative to per skate across all years (i.e., catch-per-skate is always larger than catch-per-hook). Additionally, there appears to be more fish caught in general during 2022 across all gears. 
+```{r}
+# aggregated across years - sabcatch per skate/pot across all gear types
+sabcatch_rates %>% 
+  ggplot(aes(x = gear, y = n_sablefish)) +
+  geom_boxplot() +
+  labs(x = NULL, y = "Number of sablefish") +
+  facet_grid(year~station) +
+  theme_bw()
+
+# now, plot slinky pots aggregated together
+sabcatch_rates %>% 
+  ggplot(aes(x = gear, y = n_sablefish)) +
+  geom_boxplot() +
+  labs(x = NULL, y = "Number of sablefish") +
+  facet_wrap(~station) +
+  theme_bw()
+
+# slinky aggregated together broken up by years
+sabcatch_rates %>% 
+  ggplot(aes(x = gear, y = n_sablefish, fill = factor(year), color = factor(year))) +
+  geom_boxplot(alpha = 0.5) +
+  labs(x = NULL, y = "Number of sablefish", fill = "Year", color = "Year") +
+  facet_grid(~station) +
+  theme_bw() +
+  theme(legend.position = "top")
+```
+
+# Correlations for catch-rates
+
+Key Takeaways: In general, correlations of standardized catch-rates (z-scaled) are well correlated. These correlations appears to more correlated in year 2022 relative to 2021. For stations 201 and 203, the correlations appear to be much lower during 2021 when compared to 2022. I'm not really sure why, but it could be due to the fact that this was the first year conducting the experiment? Could also be a function of closing escape rings for 2022? Nonetheless, when aggregating data across all years, the correlations align extremely well.
+```{r}
+# get correaltions by year and station
+std_sta_dep <- sabcatch_rates %>% 
+  group_by(gear, station, depth, year) %>%
+  summarize(n_sablefish = sum(n_sablefish)) %>%
+  group_by(gear, station, year) %>%
+  mutate(std = (n_sablefish - mean(n_sablefish)) / sd(n_sablefish)) 
+
+cor_sta_dep <- std_sta_dep %>% 
+  ungroup() %>% 
+  arrange(gear, station, depth, year) %>% 
+  select(-n_sablefish) %>% 
+  pivot_wider(names_from = gear, values_from = std) %>% 
+  drop_na() %>% 
+  group_by(year, station) %>%
+  summarize(cor = cor(Hooks, `Slinky pots`, method = "pearson"))
+
+# Catch-rates across depths, stations, and years
+ggplot() +
+  geom_point(data = std_sta_dep, 
+             aes(x = depth, y = std, col = gear, shape = gear, lty = gear)) +
+  geom_line(data = std_sta_dep, 
+            aes(x = depth, y = std, col = gear, shape = gear, lty = gear)) +
+  geom_text(data = cor_sta_dep, aes(x = 500, y = Inf, 
+                                    label = paste("Pearson rho =", round(cor ,2))),
+            size = 3, vjust = 3) +
+  facet_grid(year~ station) + 
+  labs(x = "Depth (m)", y = "Standardized catch rates by gear",
+       col = "Gear", lty = "Gear", shape = "Gear") +
+  theme_bw() +
+  theme(legend.position = "top")
+
+# Get correlations by year and depth
+std_dep <- sabcatch_rates %>% 
+  group_by(gear,  depth, year) %>% 
+  summarize(n_sablefish = sum(n_sablefish)) %>%
+  group_by(gear, year) %>% 
+  mutate(std = (n_sablefish - mean(n_sablefish)) / sd(n_sablefish))# %>% 
+
+# correlation by depth acorss years
+cor_dep <- std_dep %>% 
+  arrange(gear, depth, year) %>% 
+  select(-n_sablefish) %>% 
+  pivot_wider(names_from = gear, values_from = std) %>% 
+  drop_na() %>% 
+  summarize(cor = cor(Hooks, `Slinky pots`, method = "pearson"))
+
+# comparison of standardized catch rates between years
+std_dep %>% 
+  ggplot(aes(x = depth, y = std)) +
+  geom_point(aes(col = gear, shape = gear)) +
+  geom_line(aes(col = gear, lty = gear)) +
+  facet_wrap(~year) +
+  scale_color_grey() +
+    geom_text(data = cor_dep, aes(x = 500, y = Inf, 
+                                    label = paste("Pearson rho =", round(cor ,2))),
+            size = 3, vjust = 3) +  
+  labs(x = "Depth (m)", y = "Standardized catch rates by gear",
+       col = "Gear", lty = "Gear", lty = "Gear", shape = "Gear") +
+  theme_bw() +
+  theme(legend.position = "top")
+
+# now look at aggregated catch rates (aggregated acrss yrs)
+std_yrs <- sabcatch_rates %>% 
+  group_by(gear,  depth) %>% 
+  summarize(n_sablefish = sum(n_sablefish)) %>%
+  group_by(gear) %>% 
+  mutate(std = (n_sablefish - mean(n_sablefish)) / sd(n_sablefish))# %>% 
+
+# correlation by depth acorss years
+cor_yrs <- std_yrs %>% 
+  arrange(gear, depth) %>% 
+  select(-n_sablefish) %>% 
+  pivot_wider(names_from = gear, values_from = std) %>% 
+  drop_na() %>% 
+  summarize(cor = cor(Hooks, `Slinky pots`, method = "pearson"))
+
+# standardized catch rates across years
+std_yrs %>% 
+  ggplot(aes(x = depth, y = std)) +
+  geom_point(aes(col = gear, shape = gear)) +
+  geom_line(aes(col = gear, lty = gear)) +
+  scale_color_grey() +
+  geom_text(data = cor_yrs, aes(x = 500, y = Inf, 
+                                  label = paste("Pearson rho =", round(cor ,2))),
+          size = 3, vjust = 3) +  
+  labs(x = "Depth (m)", y = "Standardized catch rates by gear",
+       col = "Gear", lty = "Gear", lty = "Gear", shape = "Gear") +
+  theme_bw() +
+  theme(legend.position = "top")
+```
