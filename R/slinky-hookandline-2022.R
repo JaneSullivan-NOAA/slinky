@@ -17,7 +17,7 @@ if(length(libs[which(libs %in% rownames(installed.packages()) == FALSE )]) > 0) 
 lapply(libs, library, character.only = TRUE)
 
 theme_set(theme_bw(base_size = 15) + 
-            theme(panel.border = element_blank(), 
+          theme(panel.border = element_blank(), 
                   panel.grid.major = element_blank(),
                   panel.grid.minor = element_blank(), 
                   axis.line = element_line(colour = "black")))
@@ -279,6 +279,8 @@ catchrates <- catchrates %>%
   left_join(depths) %>% 
   mutate(depth = plyr::round_any(interp_depth, 25, floor)) %>%
   arrange(haul, depth)  
+
+write.csv(catchrates, here("results", "2022", "2022_catchrates_clean.csv"))
 
 dep_catchrate_plot <- catchrates %>% 
   group_by(gear, station, depth) %>% 
@@ -817,6 +819,7 @@ catch_clean <- catchsum %>%
   left_join(catch %>% 
               distinct(station, haul, skate, depth) %>% 
               group_by(station, haul, skate) %>% 
+              # filter(depth == max(depth)) %>% 
               dplyr::summarise(depth = sum(depth)) %>% 
               group_by(station, haul) %>%
               mutate(depth = ifelse(depth == 0, NA, depth),

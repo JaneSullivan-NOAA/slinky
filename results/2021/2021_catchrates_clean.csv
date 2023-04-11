@@ -1,0 +1,661 @@
+"","skate_id","station","gear","skate","n_sablefish","pot_size","gear2","haul","depth","interp_depth"
+"1","Exp_Set1_97_85","Exp_Set1","HAL",85,4,NA,"Hook-and-line",97,425,449
+"2","Exp_Set1_97_86","Exp_Set1","HAL",86,1,NA,"Hook-and-line",97,425,446
+"3","Exp_Set1_97_87","Exp_Set1","HAL",87,7,NA,"Hook-and-line",97,425,443
+"4","Exp_Set1_97_88","Exp_Set1","HAL",88,4,NA,"Hook-and-line",97,425,440
+"5","Exp_Set1_97_89","Exp_Set1","HAL",89,3,NA,"Hook-and-line",97,425,437
+"6","Exp_Set1_97_90","Exp_Set1","HAL",90,5,NA,"Hook-and-line",97,425,434
+"7","Exp_Set1_97_90","Exp_Set1","HAL",90,5,NA,"Hook-and-line",97,425,433.5
+"8","Exp_Set1_97_90","Exp_Set1","HAL",90,5,NA,"Hook-and-line",97,425,433
+"9","Exp_Set1_97_79","Exp_Set1","HAL",79,5,NA,"Hook-and-line",97,450,474.833333333333
+"10","Exp_Set1_97_80","Exp_Set1","HAL",80,12,NA,"Hook-and-line",97,450,471
+"11","Exp_Set1_97_80","Exp_Set1","HAL",80,12,NA,"Hook-and-line",97,450,467.833333333333
+"12","Exp_Set1_97_81","Exp_Set1","HAL",81,12,NA,"Hook-and-line",97,450,464.666666666667
+"13","Exp_Set1_97_82","Exp_Set1","HAL",82,6,NA,"Hook-and-line",97,450,461.5
+"14","Exp_Set1_97_83","Exp_Set1","HAL",83,6,NA,"Hook-and-line",97,450,458.333333333333
+"15","Exp_Set1_97_84","Exp_Set1","HAL",84,2,NA,"Hook-and-line",97,450,455.166666666667
+"16","Exp_Set1_97_85","Exp_Set1","HAL",85,4,NA,"Hook-and-line",97,450,452
+"17","Exp_Set1_97_59","Exp_Set1","HAL",59,11,NA,"Hook-and-line",97,475,499.166666666667
+"18","Exp_Set1_97_60","Exp_Set1","HAL",60,10,NA,"Hook-and-line",97,475,498
+"19","Exp_Set1_97_60","Exp_Set1","HAL",60,10,NA,"Hook-and-line",97,475,498.666666666667
+"20","Exp_Set1_97_61","Exp_Set1","HAL",61,13,NA,"Hook-and-line",97,475,499.333333333333
+"21","Exp_Set1_97_65","Exp_Set1","HAL",65,9,NA,"Hook-and-line",97,475,498.666666666667
+"22","Exp_Set1_97_66","Exp_Set1","HAL",66,12,NA,"Hook-and-line",97,475,495.333333333333
+"23","Exp_Set1_97_67","Exp_Set1","HAL",67,14,NA,"Hook-and-line",97,475,492
+"24","Exp_Set1_97_68","Exp_Set1","HAL",68,12,NA,"Hook-and-line",97,475,488.666666666667
+"25","Exp_Set1_97_69","Exp_Set1","HAL",69,10,NA,"Hook-and-line",97,475,485.333333333333
+"26","Exp_Set1_97_70","Exp_Set1","HAL",70,2,NA,"Hook-and-line",97,475,482
+"27","Exp_Set1_97_70","Exp_Set1","HAL",70,2,NA,"Hook-and-line",97,475,484
+"28","Exp_Set1_97_71","Exp_Set1","HAL",71,8,NA,"Hook-and-line",97,475,486
+"29","Exp_Set1_97_72","Exp_Set1","HAL",72,5,NA,"Hook-and-line",97,475,488
+"30","Exp_Set1_97_73","Exp_Set1","HAL",73,11,NA,"Hook-and-line",97,475,490
+"31","Exp_Set1_97_74","Exp_Set1","HAL",74,7,NA,"Hook-and-line",97,475,492
+"32","Exp_Set1_97_75","Exp_Set1","HAL",75,16,NA,"Hook-and-line",97,475,494
+"33","Exp_Set1_97_75","Exp_Set1","HAL",75,16,NA,"Hook-and-line",97,475,490.166666666667
+"34","Exp_Set1_97_76","Exp_Set1","HAL",76,6,NA,"Hook-and-line",97,475,486.333333333333
+"35","Exp_Set1_97_77","Exp_Set1","HAL",77,14,NA,"Hook-and-line",97,475,482.5
+"36","Exp_Set1_97_78","Exp_Set1","HAL",78,16,NA,"Hook-and-line",97,475,478.666666666667
+"37","Exp_Set1_97_48","Exp_Set1","HAL",48,17,NA,"Hook-and-line",97,500,521.666666666667
+"38","Exp_Set1_97_49","Exp_Set1","HAL",49,21,NA,"Hook-and-line",97,500,514.833333333333
+"39","Exp_Set1_97_50","Exp_Set1","HAL",50,21,NA,"Hook-and-line",97,500,508
+"40","Exp_Set1_97_50","Exp_Set1","HAL",50,21,NA,"Hook-and-line",97,500,507.5
+"41","Exp_Set1_97_51","Exp_Set1","HAL",51,9,NA,"Hook-and-line",97,500,507
+"42","Exp_Set1_97_52","Exp_Set1","HAL",52,21,NA,"Hook-and-line",97,500,506.5
+"43","Exp_Set1_97_53","Exp_Set1","HAL",53,14,NA,"Hook-and-line",97,500,506
+"44","Exp_Set1_97_54","Exp_Set1","HAL",54,8,NA,"Hook-and-line",97,500,505.5
+"45","Exp_Set1_97_55","Exp_Set1","HAL",55,24,NA,"Hook-and-line",97,500,505
+"46","Exp_Set1_97_55","Exp_Set1","HAL",55,24,NA,"Hook-and-line",97,500,503.833333333333
+"47","Exp_Set1_97_56","Exp_Set1","HAL",56,18,NA,"Hook-and-line",97,500,502.666666666667
+"48","Exp_Set1_97_57","Exp_Set1","HAL",57,14,NA,"Hook-and-line",97,500,501.5
+"49","Exp_Set1_97_58","Exp_Set1","HAL",58,19,NA,"Hook-and-line",97,500,500.333333333333
+"50","Exp_Set1_97_62","Exp_Set1","HAL",62,13,NA,"Hook-and-line",97,500,500
+"51","Exp_Set1_97_63","Exp_Set1","HAL",63,10,NA,"Hook-and-line",97,500,500.666666666667
+"52","Exp_Set1_97_64","Exp_Set1","HAL",64,21,NA,"Hook-and-line",97,500,501.333333333333
+"53","Exp_Set1_97_65","Exp_Set1","HAL",65,9,NA,"Hook-and-line",97,500,502
+"54","Exp_Set1_97_45","Exp_Set1","HAL",45,20,NA,"Hook-and-line",97,525,549
+"55","Exp_Set1_97_45","Exp_Set1","HAL",45,20,NA,"Hook-and-line",97,525,542.166666666667
+"56","Exp_Set1_97_46","Exp_Set1","HAL",46,18,NA,"Hook-and-line",97,525,535.333333333333
+"57","Exp_Set1_97_47","Exp_Set1","HAL",47,22,NA,"Hook-and-line",97,525,528.5
+"58","Exp_Set1_97_43","Exp_Set1","HAL",43,25,NA,"Hook-and-line",97,550,570.333333333333
+"59","Exp_Set1_97_44","Exp_Set1","HAL",44,19,NA,"Hook-and-line",97,550,559.666666666667
+"60","Exp_Set1_97_14","Exp_Set1","HAL",14,19,NA,"Hook-and-line",97,575,598
+"61","Exp_Set1_97_14","Exp_Set1","HAL",14,19,NA,"Hook-and-line",97,575,595.5
+"62","Exp_Set1_97_15","Exp_Set1","HAL",15,22,NA,"Hook-and-line",97,575,593
+"63","Exp_Set1_97_15","Exp_Set1","HAL",15,22,NA,"Hook-and-line",97,575,590
+"64","Exp_Set1_97_16","Exp_Set1","HAL",16,13,NA,"Hook-and-line",97,575,587
+"65","Exp_Set1_97_17","Exp_Set1","HAL",17,16,NA,"Hook-and-line",97,575,584
+"66","Exp_Set1_97_18","Exp_Set1","HAL",18,14,NA,"Hook-and-line",97,575,581
+"67","Exp_Set1_97_19","Exp_Set1","HAL",19,11,NA,"Hook-and-line",97,575,578
+"68","Exp_Set1_97_20","Exp_Set1","HAL",20,14,NA,"Hook-and-line",97,575,575
+"69","Exp_Set1_97_20","Exp_Set1","HAL",20,14,NA,"Hook-and-line",97,575,576.5
+"70","Exp_Set1_97_21","Exp_Set1","HAL",21,7,NA,"Hook-and-line",97,575,578
+"71","Exp_Set1_97_22","Exp_Set1","HAL",22,18,NA,"Hook-and-line",97,575,579.5
+"72","Exp_Set1_97_23","Exp_Set1","HAL",23,21,NA,"Hook-and-line",97,575,581
+"73","Exp_Set1_97_24","Exp_Set1","HAL",24,15,NA,"Hook-and-line",97,575,582.5
+"74","Exp_Set1_97_25","Exp_Set1","HAL",25,14,NA,"Hook-and-line",97,575,584
+"75","Exp_Set1_97_25","Exp_Set1","HAL",25,14,NA,"Hook-and-line",97,575,585.833333333333
+"76","Exp_Set1_97_26","Exp_Set1","HAL",26,15,NA,"Hook-and-line",97,575,587.666666666667
+"77","Exp_Set1_97_27","Exp_Set1","HAL",27,5,NA,"Hook-and-line",97,575,589.5
+"78","Exp_Set1_97_28","Exp_Set1","HAL",28,8,NA,"Hook-and-line",97,575,591.333333333333
+"79","Exp_Set1_97_29","Exp_Set1","HAL",29,16,NA,"Hook-and-line",97,575,593.166666666667
+"80","Exp_Set1_97_30","Exp_Set1","HAL",30,19,NA,"Hook-and-line",97,575,595
+"81","Exp_Set1_97_42","Exp_Set1","HAL",42,18,NA,"Hook-and-line",97,575,596.25
+"82","Exp_Set1_97_43","Exp_Set1","HAL",43,25,NA,"Hook-and-line",97,575,581
+"83","Exp_Set1_97_10","Exp_Set1","HAL",10,16,NA,"Hook-and-line",97,600,616
+"84","Exp_Set1_97_10","Exp_Set1","HAL",10,16,NA,"Hook-and-line",97,600,612.4
+"85","Exp_Set1_97_11","Exp_Set1","HAL",11,19,NA,"Hook-and-line",97,600,608.8
+"86","Exp_Set1_97_12","Exp_Set1","HAL",12,26,NA,"Hook-and-line",97,600,605.2
+"87","Exp_Set1_97_13","Exp_Set1","HAL",13,24,NA,"Hook-and-line",97,600,601.6
+"88","Exp_Set1_97_30","Exp_Set1","HAL",30,19,NA,"Hook-and-line",97,600,600
+"89","Exp_Set1_97_31","Exp_Set1","HAL",31,13,NA,"Hook-and-line",97,600,605
+"90","Exp_Set1_97_32","Exp_Set1","HAL",32,21,NA,"Hook-and-line",97,600,610
+"91","Exp_Set1_97_32","Exp_Set1","HAL",32,21,NA,"Hook-and-line",97,600,617
+"92","Exp_Set1_97_33","Exp_Set1","HAL",33,16,NA,"Hook-and-line",97,600,624
+"93","Exp_Set1_97_41","Exp_Set1","HAL",41,22,NA,"Hook-and-line",97,600,611.5
+"94","Exp_Set1_97_8","Exp_Set1","HAL",8,25,NA,"Hook-and-line",97,600,624.666666666667
+"95","Exp_Set1_97_9","Exp_Set1","HAL",9,16,NA,"Hook-and-line",97,600,620.333333333333
+"96","Exp_Set1_97_1","Exp_Set1","HAL",1,14,NA,"Hook-and-line",97,625,646
+"97","Exp_Set1_97_1","Exp_Set1","HAL",1,14,NA,"Hook-and-line",97,625,645.2
+"98","Exp_Set1_97_2","Exp_Set1","HAL",2,9,NA,"Hook-and-line",97,625,644.4
+"99","Exp_Set1_97_3","Exp_Set1","HAL",3,5,NA,"Hook-and-line",97,625,643.6
+"100","Exp_Set1_97_34","Exp_Set1","HAL",34,18,NA,"Hook-and-line",97,625,631
+"101","Exp_Set1_97_35","Exp_Set1","HAL",35,24,NA,"Hook-and-line",97,625,638
+"102","Exp_Set1_97_35","Exp_Set1","HAL",35,24,NA,"Hook-and-line",97,625,638.666666666667
+"103","Exp_Set1_97_36","Exp_Set1","HAL",36,17,NA,"Hook-and-line",97,625,639.333333333333
+"104","Exp_Set1_97_37","Exp_Set1","HAL",37,26,NA,"Hook-and-line",97,625,640
+"105","Exp_Set1_97_38","Exp_Set1","HAL",38,23,NA,"Hook-and-line",97,625,640.666666666667
+"106","Exp_Set1_97_39","Exp_Set1","HAL",39,19,NA,"Hook-and-line",97,625,641.333333333333
+"107","Exp_Set1_97_4","Exp_Set1","HAL",4,6,NA,"Hook-and-line",97,625,642.8
+"108","Exp_Set1_97_40","Exp_Set1","HAL",40,19,NA,"Hook-and-line",97,625,642
+"109","Exp_Set1_97_40","Exp_Set1","HAL",40,19,NA,"Hook-and-line",97,625,626.75
+"110","Exp_Set1_97_5","Exp_Set1","HAL",5,15,NA,"Hook-and-line",97,625,642
+"111","Exp_Set1_97_5","Exp_Set1","HAL",5,15,NA,"Hook-and-line",97,625,637.666666666667
+"112","Exp_Set1_97_6","Exp_Set1","HAL",6,13,NA,"Hook-and-line",97,625,633.333333333333
+"113","Exp_Set1_97_7","Exp_Set1","HAL",7,19,NA,"Hook-and-line",97,625,629
+"114","Exp_Set1_98_102","Exp_Set1","POT",102,1,"Small","Small pots",98,375,398.666666666667
+"115","Exp_Set1_98_103","Exp_Set1","POT",103,2,"Small","Small pots",98,375,396
+"116","Exp_Set1_98_103","Exp_Set1","POT",103,2,"Small","Small pots",98,375,396.833333333333
+"117","Exp_Set1_98_104","Exp_Set1","POT",104,0,"Small","Small pots",98,375,397.666666666667
+"118","Exp_Set1_98_105","Exp_Set1","POT",105,1,"Small","Small pots",98,375,398.5
+"119","Exp_Set1_98_106","Exp_Set1","POT",106,0,"Small","Small pots",98,375,399.333333333333
+"120","Exp_Set1_98_100","Exp_Set1","POT",100,0,"Small","Small pots",98,400,404
+"121","Exp_Set1_98_101","Exp_Set1","POT",101,0,"Small","Small pots",98,400,401.333333333333
+"122","Exp_Set1_98_107","Exp_Set1","POT",107,2,"Small","Small pots",98,400,400.166666666667
+"123","Exp_Set1_98_108","Exp_Set1","POT",108,1,"Small","Small pots",98,400,401
+"124","Exp_Set1_98_108","Exp_Set1","POT",108,1,"Small","Small pots",98,400,404.333333333333
+"125","Exp_Set1_98_109","Exp_Set1","POT",109,0,"Small","Small pots",98,400,407.666666666667
+"126","Exp_Set1_98_110","Exp_Set1","POT",110,0,"Small","Small pots",98,400,411
+"127","Exp_Set1_98_110","Exp_Set1","POT",110,0,"Small","Small pots",98,400,415.833333333333
+"128","Exp_Set1_98_111","Exp_Set1","POT",111,1,"Small","Small pots",98,400,420.666666666667
+"129","Exp_Set1_98_95","Exp_Set1","POT",95,2,"Large","Large pots",98,400,406
+"130","Exp_Set1_98_95","Exp_Set1","POT",95,2,"Large","Large pots",98,400,405.666666666667
+"131","Exp_Set1_98_96","Exp_Set1","POT",96,2,"Small","Small pots",98,400,405.333333333333
+"132","Exp_Set1_98_97","Exp_Set1","POT",97,0,"Small","Small pots",98,400,405
+"133","Exp_Set1_98_98","Exp_Set1","POT",98,0,"Small","Small pots",98,400,404.666666666667
+"134","Exp_Set1_98_99","Exp_Set1","POT",99,1,"Small","Small pots",98,400,404.333333333333
+"135","Exp_Set1_98_112","Exp_Set1","POT",112,1,"Small","Small pots",98,425,425.5
+"136","Exp_Set1_98_113","Exp_Set1","POT",113,5,"Small","Small pots",98,425,430.333333333333
+"137","Exp_Set1_98_114","Exp_Set1","POT",114,3,"Small","Small pots",98,425,435.166666666667
+"138","Exp_Set1_98_115","Exp_Set1","POT",115,2,"Small","Small pots",98,425,440
+"139","Exp_Set1_98_115","Exp_Set1","POT",115,2,"Small","Small pots",98,425,442
+"140","Exp_Set1_98_116","Exp_Set1","POT",116,4,"Small","Small pots",98,425,444
+"141","Exp_Set1_98_117","Exp_Set1","POT",117,0,"Small","Small pots",98,425,446
+"142","Exp_Set1_98_118","Exp_Set1","POT",118,1,"Small","Small pots",98,425,448
+"143","Exp_Set1_98_119","Exp_Set1","POT",119,0,"Small","Small pots",98,450,450
+"144","Exp_Set1_98_120","Exp_Set1","POT",120,1,"Small","Small pots",98,450,452
+"145","Exp_Set1_98_120","Exp_Set1","POT",120,1,"Small","Small pots",98,450,454.666666666667
+"146","Exp_Set1_98_121","Exp_Set1","POT",121,3,"Small","Small pots",98,450,457.333333333333
+"147","Exp_Set1_98_122","Exp_Set1","POT",122,2,"Small","Small pots",98,450,460
+"148","Exp_Set1_98_123","Exp_Set1","POT",123,0,"Small","Small pots",98,450,462.666666666667
+"149","Exp_Set1_98_124","Exp_Set1","POT",124,7,"Small","Small pots",98,450,465.333333333333
+"150","Exp_Set1_98_125","Exp_Set1","POT",125,5,"Small","Small pots",98,450,468
+"151","Exp_Set1_98_125","Exp_Set1","POT",125,5,"Small","Small pots",98,450,471
+"152","Exp_Set1_98_126","Exp_Set1","POT",126,5,"Small","Small pots",98,450,474
+"153","Exp_Set1_98_127","Exp_Set1","POT",127,0,"Small","Small pots",98,475,477
+"154","Exp_Set1_98_128","Exp_Set1","POT",128,8,"Small","Small pots",98,475,480
+"155","Exp_Set1_98_129","Exp_Set1","POT",129,10,"Small","Small pots",98,475,483
+"156","Exp_Set1_98_130","Exp_Set1","POT",130,3,"Small","Small pots",98,475,486
+"157","Exp_Set1_98_130","Exp_Set1","POT",130,3,"Small","Small pots",98,475,486.666666666667
+"158","Exp_Set1_98_131","Exp_Set1","POT",131,6,"Small","Small pots",98,475,487.333333333333
+"159","Exp_Set1_98_132","Exp_Set1","POT",132,10,"Small","Small pots",98,475,488
+"160","Exp_Set1_98_133","Exp_Set1","POT",133,4,"Small","Small pots",98,475,488.666666666667
+"161","Exp_Set1_98_134","Exp_Set1","POT",134,12,"Small","Small pots",98,475,489.333333333333
+"162","Exp_Set1_98_135","Exp_Set1","POT",135,10,"Small","Small pots",98,475,490
+"163","Exp_Set1_98_135","Exp_Set1","POT",135,10,"Small","Small pots",98,475,493
+"164","Exp_Set1_98_136","Exp_Set1","POT",136,10,"Small","Small pots",98,475,496
+"165","Exp_Set1_98_137","Exp_Set1","POT",137,12,"Small","Small pots",98,475,499
+"166","Exp_Set1_98_138","Exp_Set1","POT",138,10,"Small","Small pots",98,500,502
+"167","Exp_Set1_98_139","Exp_Set1","POT",139,7,"Small","Small pots",98,500,505
+"168","Exp_Set1_98_140","Exp_Set1","POT",140,23,"Small","Small pots",98,500,508
+"169","Exp_Set1_98_140","Exp_Set1","POT",140,23,"Small","Small pots",98,500,509.166666666667
+"170","Exp_Set1_98_142","Exp_Set1","POT",142,12,"Small","Small pots",98,500,511.5
+"171","Exp_Set1_98_143","Exp_Set1","POT",143,9,"Small","Small pots",98,500,512.666666666667
+"172","Exp_Set1_98_144","Exp_Set1","POT",144,5,"Small","Small pots",98,500,513.833333333333
+"173","Exp_Set1_98_145","Exp_Set1","POT",145,12,"Small","Small pots",98,500,515
+"174","Exp_Set1_98_145","Exp_Set1","POT",145,12,"Small","Small pots",98,500,519
+"175","Exp_Set1_98_146","Exp_Set1","POT",146,6,"Small","Small pots",98,500,523
+"176","Exp_Set1_98_147","Exp_Set1","POT",147,10,"Small","Small pots",98,525,527
+"177","Exp_Set1_98_148","Exp_Set1","POT",148,16,"Small","Small pots",98,525,531
+"178","Exp_Set1_98_149","Exp_Set1","POT",149,2,"Small","Small pots",98,525,535
+"179","Exp_Set1_98_150","Exp_Set1","POT",150,10,"Small","Small pots",98,525,539
+"180","Exp_Set1_98_150","Exp_Set1","POT",150,10,"Small","Small pots",98,525,542.5
+"181","Exp_Set1_98_151","Exp_Set1","POT",151,7,"Small","Small pots",98,525,546
+"182","Exp_Set1_98_152","Exp_Set1","POT",152,6,"Small","Small pots",98,525,549.5
+"183","Exp_Set1_98_153","Exp_Set1","POT",153,16,"Small","Small pots",98,550,553
+"184","Exp_Set1_98_154","Exp_Set1","POT",154,12,"Small","Small pots",98,550,556.5
+"185","Exp_Set1_98_155","Exp_Set1","POT",155,12,"Small","Small pots",98,550,560
+"186","Exp_Set1_98_155","Exp_Set1","POT",155,12,"Small","Small pots",98,550,562.5
+"187","Exp_Set1_98_156","Exp_Set1","POT",156,8,"Small","Small pots",98,550,565
+"188","Exp_Set1_98_157","Exp_Set1","POT",157,11,"Small","Small pots",98,550,567.5
+"189","Exp_Set1_98_158","Exp_Set1","POT",158,7,"Small","Small pots",98,550,570
+"190","Exp_Set1_98_159","Exp_Set1","POT",159,8,"Small","Small pots",98,550,572.5
+"191","Exp_Set1_98_160","Exp_Set1","POT",160,9,"Small","Small pots",98,575,575
+"192","Exp_Set1_98_160","Exp_Set1","POT",160,9,"Small","Small pots",98,575,580.2
+"193","Exp_Set1_98_161","Exp_Set1","POT",161,10,"Small","Small pots",98,575,585.4
+"194","Exp_Set1_98_162","Exp_Set1","POT",162,9,"Small","Small pots",98,575,590.6
+"195","Exp_Set1_98_163","Exp_Set1","POT",163,11,"Small","Small pots",98,575,595.8
+"196","Exp_Set1_98_164","Exp_Set1","POT",164,6,"Small","Small pots",98,600,601
+"197","Exp_Set1_98_164","Exp_Set1","POT",164,6,"Small","Small pots",98,600,605
+"198","Exp_Set1_98_165","Exp_Set1","POT",165,7,"Small","Small pots",98,600,609
+"199","Exp_Set1_98_165","Exp_Set1","POT",165,7,"Small","Small pots",98,600,615.5
+"200","Exp_Set1_98_166","Exp_Set1","POT",166,10,"Small","Small pots",98,600,622
+"201","Exp_Set1_98_167","Exp_Set1","POT",167,3,"Small","Small pots",98,625,628.5
+"202","Exp_Set1_98_168","Exp_Set1","POT",168,8,"Small","Small pots",98,625,635
+"203","Exp_Set1_98_169","Exp_Set1","POT",169,7,"Small","Small pots",98,625,641.5
+"204","Exp_Set1_98_170","Exp_Set1","POT",170,6,"Small","Small pots",98,625,648
+"205","Exp_Set1_98_170","Exp_Set1","POT",170,6,"Small","Small pots",98,625,645.333333333333
+"206","Exp_Set1_98_171","Exp_Set1","POT",171,3,"Small","Small pots",98,625,642.666666666667
+"207","Exp_Set1_98_172","Exp_Set1","POT",172,10,"Small","Small pots",98,625,640
+"208","Exp_Set1_98_173","Exp_Set1","POT",173,5,"Large","Large pots",98,625,637.333333333333
+"209","Exp_Set1_98_174","Exp_Set1","POT",174,6,"Large","Large pots",98,625,634.666666666667
+"210","Exp_Set1_98_175","Exp_Set1","POT",175,2,"Large","Large pots",98,625,632
+"211","Exp_Set1_98_175","Exp_Set1","POT",175,2,"Large","Large pots",98,625,630.666666666667
+"212","Exp_Set1_98_176","Exp_Set1","POT",176,7,"Large","Large pots",98,625,629.333333333333
+"213","Exp_Set1_98_177","Exp_Set1","POT",177,7,"Large","Large pots",98,625,628
+"214","Exp_Set1_98_177","Exp_Set1","POT",177,7,"Large","Large pots",98,625,628
+"215","Exp_Set2_105_1","Exp_Set2","HAL",1,18,NA,"Hook-and-line",105,575,585
+"216","Exp_Set2_105_1","Exp_Set2","HAL",1,18,NA,"Hook-and-line",105,575,586.4
+"217","Exp_Set2_105_2","Exp_Set2","HAL",2,3,NA,"Hook-and-line",105,575,587.8
+"218","Exp_Set2_105_3","Exp_Set2","HAL",3,12,NA,"Hook-and-line",105,575,589.2
+"219","Exp_Set2_105_4","Exp_Set2","HAL",4,16,NA,"Hook-and-line",105,575,590.6
+"220","Exp_Set2_105_5","Exp_Set2","HAL",5,13,NA,"Hook-and-line",105,575,592
+"221","Exp_Set2_105_5","Exp_Set2","HAL",5,13,NA,"Hook-and-line",105,575,593.5
+"222","Exp_Set2_105_6","Exp_Set2","HAL",6,20,NA,"Hook-and-line",105,575,595
+"223","Exp_Set2_105_7","Exp_Set2","HAL",7,17,NA,"Hook-and-line",105,575,596.5
+"224","Exp_Set2_105_8","Exp_Set2","HAL",8,8,NA,"Hook-and-line",105,575,598
+"225","Exp_Set2_105_9","Exp_Set2","HAL",9,18,NA,"Hook-and-line",105,575,599.5
+"226","Exp_Set2_105_10","Exp_Set2","HAL",10,17,NA,"Hook-and-line",105,600,601
+"227","Exp_Set2_105_10","Exp_Set2","HAL",10,17,NA,"Hook-and-line",105,600,602
+"228","Exp_Set2_105_11","Exp_Set2","HAL",11,13,NA,"Hook-and-line",105,600,603
+"229","Exp_Set2_105_12","Exp_Set2","HAL",12,13,NA,"Hook-and-line",105,600,604
+"230","Exp_Set2_105_13","Exp_Set2","HAL",13,15,NA,"Hook-and-line",105,600,605
+"231","Exp_Set2_105_14","Exp_Set2","HAL",14,10,NA,"Hook-and-line",105,600,606
+"232","Exp_Set2_105_15","Exp_Set2","HAL",15,21,NA,"Hook-and-line",105,600,607
+"233","Exp_Set2_105_15","Exp_Set2","HAL",15,21,NA,"Hook-and-line",105,600,608
+"234","Exp_Set2_105_16","Exp_Set2","HAL",16,14,NA,"Hook-and-line",105,600,609
+"235","Exp_Set2_105_17","Exp_Set2","HAL",17,17,NA,"Hook-and-line",105,600,610
+"236","Exp_Set2_105_18","Exp_Set2","HAL",18,11,NA,"Hook-and-line",105,600,611
+"237","Exp_Set2_105_19","Exp_Set2","HAL",19,21,NA,"Hook-and-line",105,600,612
+"238","Exp_Set2_105_20","Exp_Set2","HAL",20,19,NA,"Hook-and-line",105,600,613
+"239","Exp_Set2_105_20","Exp_Set2","HAL",20,19,NA,"Hook-and-line",105,600,614.666666666667
+"240","Exp_Set2_105_21","Exp_Set2","HAL",21,17,NA,"Hook-and-line",105,600,616.333333333333
+"241","Exp_Set2_105_22","Exp_Set2","HAL",22,24,NA,"Hook-and-line",105,600,618
+"242","Exp_Set2_105_23","Exp_Set2","HAL",23,9,NA,"Hook-and-line",105,600,619.666666666667
+"243","Exp_Set2_105_24","Exp_Set2","HAL",24,13,NA,"Hook-and-line",105,600,621.333333333333
+"244","Exp_Set2_105_25","Exp_Set2","HAL",25,8,NA,"Hook-and-line",105,600,623
+"245","Exp_Set2_105_25","Exp_Set2","HAL",25,8,NA,"Hook-and-line",105,600,622.666666666667
+"246","Exp_Set2_105_26","Exp_Set2","HAL",26,16,NA,"Hook-and-line",105,600,622.333333333333
+"247","Exp_Set2_105_27","Exp_Set2","HAL",27,20,NA,"Hook-and-line",105,600,622
+"248","Exp_Set2_105_28","Exp_Set2","HAL",28,15,NA,"Hook-and-line",105,600,621.666666666667
+"249","Exp_Set2_105_29","Exp_Set2","HAL",29,1,NA,"Hook-and-line",105,600,621.333333333333
+"250","Exp_Set2_105_30","Exp_Set2","HAL",30,9,NA,"Hook-and-line",105,600,621
+"251","Exp_Set2_105_30","Exp_Set2","HAL",30,9,NA,"Hook-and-line",105,600,621.5
+"252","Exp_Set2_105_31","Exp_Set2","HAL",31,8,NA,"Hook-and-line",105,600,622
+"253","Exp_Set2_105_32","Exp_Set2","HAL",32,11,NA,"Hook-and-line",105,600,622.5
+"254","Exp_Set2_105_33","Exp_Set2","HAL",33,9,NA,"Hook-and-line",105,600,623
+"255","Exp_Set2_105_34","Exp_Set2","HAL",34,18,NA,"Hook-and-line",105,600,623.5
+"256","Exp_Set2_105_35","Exp_Set2","HAL",35,18,NA,"Hook-and-line",105,600,624
+"257","Exp_Set2_105_35","Exp_Set2","HAL",35,18,NA,"Hook-and-line",105,600,624
+"258","Exp_Set2_105_36","Exp_Set2","HAL",36,3,NA,"Hook-and-line",105,600,624
+"259","Exp_Set2_105_36","Exp_Set2","HAL",36,3,NA,"Hook-and-line",105,600,624
+"260","Exp_Set2_105_36","Exp_Set2","HAL",36,3,NA,"Hook-and-line",105,600,618
+"261","Exp_Set2_105_37","Exp_Set2","HAL",37,11,NA,"Hook-and-line",105,600,618.4
+"262","Exp_Set2_105_38","Exp_Set2","HAL",38,16,NA,"Hook-and-line",105,600,618.8
+"263","Exp_Set2_105_39","Exp_Set2","HAL",39,18,NA,"Hook-and-line",105,600,619.2
+"264","Exp_Set2_105_40","Exp_Set2","HAL",40,16,NA,"Hook-and-line",105,600,620
+"265","Exp_Set2_105_40","Exp_Set2","HAL",40,16,NA,"Hook-and-line",105,600,619.6
+"266","Exp_Set2_105_41","Exp_Set2","HAL",41,19,NA,"Hook-and-line",105,600,620.166666666667
+"267","Exp_Set2_105_42","Exp_Set2","HAL",42,10,NA,"Hook-and-line",105,600,620.333333333333
+"268","Exp_Set2_105_43","Exp_Set2","HAL",43,16,NA,"Hook-and-line",105,600,620.5
+"269","Exp_Set2_105_44","Exp_Set2","HAL",44,19,NA,"Hook-and-line",105,600,620.666666666667
+"270","Exp_Set2_105_45","Exp_Set2","HAL",45,14,NA,"Hook-and-line",105,600,621
+"271","Exp_Set2_105_45","Exp_Set2","HAL",45,14,NA,"Hook-and-line",105,600,620.833333333333
+"272","Exp_Set2_105_46","Exp_Set2","HAL",46,15,NA,"Hook-and-line",105,600,620.833333333333
+"273","Exp_Set2_105_47","Exp_Set2","HAL",47,23,NA,"Hook-and-line",105,600,620.666666666667
+"274","Exp_Set2_105_48","Exp_Set2","HAL",48,19,NA,"Hook-and-line",105,600,620.5
+"275","Exp_Set2_105_49","Exp_Set2","HAL",49,22,NA,"Hook-and-line",105,600,620.333333333333
+"276","Exp_Set2_105_50","Exp_Set2","HAL",50,12,NA,"Hook-and-line",105,600,620
+"277","Exp_Set2_105_50","Exp_Set2","HAL",50,12,NA,"Hook-and-line",105,600,620.166666666667
+"278","Exp_Set2_105_51","Exp_Set2","HAL",51,21,NA,"Hook-and-line",105,600,619.333333333333
+"279","Exp_Set2_105_52","Exp_Set2","HAL",52,15,NA,"Hook-and-line",105,600,618.666666666667
+"280","Exp_Set2_105_53","Exp_Set2","HAL",53,14,NA,"Hook-and-line",105,600,618
+"281","Exp_Set2_105_54","Exp_Set2","HAL",54,13,NA,"Hook-and-line",105,600,617.333333333333
+"282","Exp_Set2_105_55","Exp_Set2","HAL",55,22,NA,"Hook-and-line",105,600,616
+"283","Exp_Set2_105_55","Exp_Set2","HAL",55,22,NA,"Hook-and-line",105,600,616.666666666667
+"284","Exp_Set2_105_56","Exp_Set2","HAL",56,16,NA,"Hook-and-line",105,600,616
+"285","Exp_Set2_105_57","Exp_Set2","HAL",57,16,NA,"Hook-and-line",105,600,616
+"286","Exp_Set2_105_58","Exp_Set2","HAL",58,13,NA,"Hook-and-line",105,600,616
+"287","Exp_Set2_105_59","Exp_Set2","HAL",59,17,NA,"Hook-and-line",105,600,616
+"288","Exp_Set2_105_60","Exp_Set2","HAL",60,16,NA,"Hook-and-line",105,600,616
+"289","Exp_Set2_105_60","Exp_Set2","HAL",60,16,NA,"Hook-and-line",105,600,616
+"290","Exp_Set2_105_61","Exp_Set2","HAL",61,15,NA,"Hook-and-line",105,600,616
+"291","Exp_Set2_105_62","Exp_Set2","HAL",62,23,NA,"Hook-and-line",105,600,616
+"292","Exp_Set2_105_63","Exp_Set2","HAL",63,10,NA,"Hook-and-line",105,600,616
+"293","Exp_Set2_105_64","Exp_Set2","HAL",64,17,NA,"Hook-and-line",105,600,616
+"294","Exp_Set2_105_65","Exp_Set2","HAL",65,18,NA,"Hook-and-line",105,600,616
+"295","Exp_Set2_105_65","Exp_Set2","HAL",65,18,NA,"Hook-and-line",105,600,616
+"296","Exp_Set2_105_66","Exp_Set2","HAL",66,17,NA,"Hook-and-line",105,600,616.666666666667
+"297","Exp_Set2_105_67","Exp_Set2","HAL",67,12,NA,"Hook-and-line",105,600,617.333333333333
+"298","Exp_Set2_105_68","Exp_Set2","HAL",68,18,NA,"Hook-and-line",105,600,618
+"299","Exp_Set2_105_69","Exp_Set2","HAL",69,18,NA,"Hook-and-line",105,600,618.666666666667
+"300","Exp_Set2_105_70","Exp_Set2","HAL",70,16,NA,"Hook-and-line",105,600,620
+"301","Exp_Set2_105_70","Exp_Set2","HAL",70,16,NA,"Hook-and-line",105,600,619.333333333333
+"302","Exp_Set2_105_71","Exp_Set2","HAL",71,17,NA,"Hook-and-line",105,600,619.333333333333
+"303","Exp_Set2_105_72","Exp_Set2","HAL",72,10,NA,"Hook-and-line",105,600,618.666666666667
+"304","Exp_Set2_105_73","Exp_Set2","HAL",73,12,NA,"Hook-and-line",105,600,618
+"305","Exp_Set2_105_74","Exp_Set2","HAL",74,14,NA,"Hook-and-line",105,600,617.333333333333
+"306","Exp_Set2_105_75","Exp_Set2","HAL",75,16,NA,"Hook-and-line",105,600,616
+"307","Exp_Set2_105_75","Exp_Set2","HAL",75,16,NA,"Hook-and-line",105,600,616.666666666667
+"308","Exp_Set2_105_76","Exp_Set2","HAL",76,13,NA,"Hook-and-line",105,600,617.5
+"309","Exp_Set2_105_77","Exp_Set2","HAL",77,26,NA,"Hook-and-line",105,600,619
+"310","Exp_Set2_105_78","Exp_Set2","HAL",78,21,NA,"Hook-and-line",105,600,620.5
+"311","Exp_Set2_105_79","Exp_Set2","HAL",79,22,NA,"Hook-and-line",105,600,622
+"312","Exp_Set2_105_80","Exp_Set2","HAL",80,19,NA,"Hook-and-line",105,600,623.5
+"313","Exp_Set2_105_80","Exp_Set2","HAL",80,19,NA,"Hook-and-line",105,625,625
+"314","Exp_Set2_105_81","Exp_Set2","HAL",81,19,NA,"Hook-and-line",105,625,627.166666666667
+"315","Exp_Set2_105_82","Exp_Set2","HAL",82,11,NA,"Hook-and-line",105,625,629.333333333333
+"316","Exp_Set2_105_83","Exp_Set2","HAL",83,17,NA,"Hook-and-line",105,625,631.5
+"317","Exp_Set2_105_84","Exp_Set2","HAL",84,16,NA,"Hook-and-line",105,625,633.666666666667
+"318","Exp_Set2_105_85","Exp_Set2","HAL",85,14,NA,"Hook-and-line",105,625,638
+"319","Exp_Set2_105_85","Exp_Set2","HAL",85,14,NA,"Hook-and-line",105,625,635.833333333333
+"320","Exp_Set2_105_86","Exp_Set2","HAL",86,12,NA,"Hook-and-line",105,625,639.666666666667
+"321","Exp_Set2_105_87","Exp_Set2","HAL",87,18,NA,"Hook-and-line",105,625,641.333333333333
+"322","Exp_Set2_105_88","Exp_Set2","HAL",88,20,NA,"Hook-and-line",105,625,643
+"323","Exp_Set2_105_89","Exp_Set2","HAL",89,19,NA,"Hook-and-line",105,625,644.666666666667
+"324","Exp_Set2_105_90","Exp_Set2","HAL",90,28,NA,"Hook-and-line",105,625,648
+"325","Exp_Set2_105_90","Exp_Set2","HAL",90,28,NA,"Hook-and-line",105,625,646.333333333333
+"326","Exp_Set2_106_100","Exp_Set2","POT",100,19,"Small","Small pots",106,575,591
+"327","Exp_Set2_106_100","Exp_Set2","POT",100,19,"Small","Small pots",106,575,592.285714285714
+"328","Exp_Set2_106_101","Exp_Set2","POT",101,9,"Small","Small pots",106,575,593.571428571429
+"329","Exp_Set2_106_102","Exp_Set2","POT",102,6,"Small","Small pots",106,575,594.857142857143
+"330","Exp_Set2_106_103","Exp_Set2","POT",103,9,"Small","Small pots",106,575,596.142857142857
+"331","Exp_Set2_106_104","Exp_Set2","POT",104,13,"Small","Small pots",106,575,597.428571428571
+"332","Exp_Set2_106_105","Exp_Set2","POT",105,10,"Small","Small pots",106,575,598.714285714286
+"333","Exp_Set2_106_91","Exp_Set2","POT",91,17,"Large","Large pots",106,575,587
+"334","Exp_Set2_106_91","Exp_Set2","POT",91,17,"Large","Large pots",106,575,586.666666666667
+"335","Exp_Set2_106_92","Exp_Set2","POT",92,13,"Large","Large pots",106,575,586.333333333333
+"336","Exp_Set2_106_93","Exp_Set2","POT",93,15,"Large","Large pots",106,575,586
+"337","Exp_Set2_106_94","Exp_Set2","POT",94,14,"Large","Large pots",106,575,585.666666666667
+"338","Exp_Set2_106_95","Exp_Set2","POT",95,6,"Large","Large pots",106,575,585.333333333333
+"339","Exp_Set2_106_95","Exp_Set2","POT",95,6,"Large","Large pots",106,575,585
+"340","Exp_Set2_106_96","Exp_Set2","POT",96,2,"Small","Small pots",106,575,586.2
+"341","Exp_Set2_106_97","Exp_Set2","POT",97,4,"Small","Small pots",106,575,587.4
+"342","Exp_Set2_106_98","Exp_Set2","POT",98,1,"Small","Small pots",106,575,588.6
+"343","Exp_Set2_106_99","Exp_Set2","POT",99,14,"Small","Small pots",106,575,589.8
+"344","Exp_Set2_106_105","Exp_Set2","POT",105,10,"Small","Small pots",106,600,600
+"345","Exp_Set2_106_106","Exp_Set2","POT",106,14,"Small","Small pots",106,600,601
+"346","Exp_Set2_106_106","Exp_Set2","POT",106,14,"Small","Small pots",106,600,601
+"347","Exp_Set2_106_107","Exp_Set2","POT",107,6,"Small","Small pots",106,600,601
+"348","Exp_Set2_106_108","Exp_Set2","POT",108,12,"Small","Small pots",106,600,601
+"349","Exp_Set2_106_109","Exp_Set2","POT",109,11,"Small","Small pots",106,600,601
+"350","Exp_Set2_106_110","Exp_Set2","POT",110,10,"Small","Small pots",106,600,601
+"351","Exp_Set2_106_110","Exp_Set2","POT",110,10,"Small","Small pots",106,600,601.333333333333
+"352","Exp_Set2_106_111","Exp_Set2","POT",111,4,"Small","Small pots",106,600,601.666666666667
+"353","Exp_Set2_106_112","Exp_Set2","POT",112,5,"Small","Small pots",106,600,602
+"354","Exp_Set2_106_113","Exp_Set2","POT",113,18,"Small","Small pots",106,600,602.333333333333
+"355","Exp_Set2_106_114","Exp_Set2","POT",114,13,"Small","Small pots",106,600,602.666666666667
+"356","Exp_Set2_106_115","Exp_Set2","POT",115,8,"Small","Small pots",106,600,603
+"357","Exp_Set2_106_115","Exp_Set2","POT",115,8,"Small","Small pots",106,600,602.666666666667
+"358","Exp_Set2_106_116","Exp_Set2","POT",116,14,"Small","Small pots",106,600,602.333333333333
+"359","Exp_Set2_106_117","Exp_Set2","POT",117,11,"Small","Small pots",106,600,602
+"360","Exp_Set2_106_118","Exp_Set2","POT",118,8,"Small","Small pots",106,600,601.666666666667
+"361","Exp_Set2_106_119","Exp_Set2","POT",119,3,"Small","Small pots",106,600,601.333333333333
+"362","Exp_Set2_106_120","Exp_Set2","POT",120,13,"Small","Small pots",106,600,601
+"363","Exp_Set2_106_120","Exp_Set2","POT",120,13,"Small","Small pots",106,600,601.833333333333
+"364","Exp_Set2_106_121","Exp_Set2","POT",121,18,"Small","Small pots",106,600,602.666666666667
+"365","Exp_Set2_106_122","Exp_Set2","POT",122,2,"Small","Small pots",106,600,603.5
+"366","Exp_Set2_106_123","Exp_Set2","POT",123,11,"Small","Small pots",106,600,604.333333333333
+"367","Exp_Set2_106_124","Exp_Set2","POT",124,7,"Small","Small pots",106,600,605.166666666667
+"368","Exp_Set2_106_125","Exp_Set2","POT",125,16,"Small","Small pots",106,600,606
+"369","Exp_Set2_106_125","Exp_Set2","POT",125,16,"Small","Small pots",106,600,606.666666666667
+"370","Exp_Set2_106_126","Exp_Set2","POT",126,9,"Small","Small pots",106,600,607.333333333333
+"371","Exp_Set2_106_127","Exp_Set2","POT",127,9,"Small","Small pots",106,600,608
+"372","Exp_Set2_106_128","Exp_Set2","POT",128,6,"Small","Small pots",106,600,608.666666666667
+"373","Exp_Set2_106_129","Exp_Set2","POT",129,13,"Small","Small pots",106,600,609.333333333333
+"374","Exp_Set2_106_130","Exp_Set2","POT",130,5,"Small","Small pots",106,600,610
+"375","Exp_Set2_106_130","Exp_Set2","POT",130,5,"Small","Small pots",106,600,611
+"376","Exp_Set2_106_131","Exp_Set2","POT",131,14,"Small","Small pots",106,600,612
+"377","Exp_Set2_106_132","Exp_Set2","POT",132,10,"Small","Small pots",106,600,613
+"378","Exp_Set2_106_133","Exp_Set2","POT",133,10,"Small","Small pots",106,600,614
+"379","Exp_Set2_106_134","Exp_Set2","POT",134,6,"Small","Small pots",106,600,615
+"380","Exp_Set2_106_135","Exp_Set2","POT",135,4,"Small","Small pots",106,600,616
+"381","Exp_Set2_106_135","Exp_Set2","POT",135,4,"Small","Small pots",106,600,617.166666666667
+"382","Exp_Set2_106_136","Exp_Set2","POT",136,13,"Small","Small pots",106,600,618.333333333333
+"383","Exp_Set2_106_137","Exp_Set2","POT",137,5,"Small","Small pots",106,600,619.5
+"384","Exp_Set2_106_138","Exp_Set2","POT",138,23,"Small","Small pots",106,600,620.666666666667
+"385","Exp_Set2_106_139","Exp_Set2","POT",139,18,"Small","Small pots",106,600,621.833333333333
+"386","Exp_Set2_106_140","Exp_Set2","POT",140,5,"Small","Small pots",106,600,623
+"387","Exp_Set2_106_140","Exp_Set2","POT",140,5,"Small","Small pots",106,600,624
+"388","Exp_Set2_106_141","Exp_Set2","POT",141,13,"Small","Small pots",106,625,625
+"389","Exp_Set2_106_142","Exp_Set2","POT",142,6,"Small","Small pots",106,625,626
+"390","Exp_Set2_106_143","Exp_Set2","POT",143,4,"Small","Small pots",106,625,627
+"391","Exp_Set2_106_144","Exp_Set2","POT",144,1,"Small","Small pots",106,625,628
+"392","Exp_Set2_106_145","Exp_Set2","POT",145,2,"Small","Small pots",106,625,629
+"393","Exp_Set2_106_145","Exp_Set2","POT",145,2,"Small","Small pots",106,625,629.833333333333
+"394","Exp_Set2_106_146","Exp_Set2","POT",146,14,"Small","Small pots",106,625,630.666666666667
+"395","Exp_Set2_106_147","Exp_Set2","POT",147,12,"Small","Small pots",106,625,631.5
+"396","Exp_Set2_106_148","Exp_Set2","POT",148,0,"Small","Small pots",106,625,632.333333333333
+"397","Exp_Set2_106_149","Exp_Set2","POT",149,7,"Small","Small pots",106,625,633.166666666667
+"398","Exp_Set2_106_150","Exp_Set2","POT",150,2,"Small","Small pots",106,625,634
+"399","Exp_Set2_106_150","Exp_Set2","POT",150,2,"Small","Small pots",106,625,634.666666666667
+"400","Exp_Set2_106_151","Exp_Set2","POT",151,9,"Small","Small pots",106,625,635.333333333333
+"401","Exp_Set2_106_152","Exp_Set2","POT",152,13,"Small","Small pots",106,625,636
+"402","Exp_Set2_106_153","Exp_Set2","POT",153,8,"Small","Small pots",106,625,636.666666666667
+"403","Exp_Set2_106_154","Exp_Set2","POT",154,3,"Small","Small pots",106,625,637.333333333333
+"404","Exp_Set2_106_155","Exp_Set2","POT",155,2,"Small","Small pots",106,625,638
+"405","Exp_Set2_106_155","Exp_Set2","POT",155,2,"Small","Small pots",106,625,638.333333333333
+"406","Exp_Set2_106_156","Exp_Set2","POT",156,15,"Small","Small pots",106,625,638.666666666667
+"407","Exp_Set2_106_157","Exp_Set2","POT",157,0,"Small","Small pots",106,625,639
+"408","Exp_Set2_106_158","Exp_Set2","POT",158,6,"Small","Small pots",106,625,639.333333333333
+"409","Exp_Set2_106_159","Exp_Set2","POT",159,14,"Small","Small pots",106,625,639.666666666667
+"410","Exp_Set2_106_160","Exp_Set2","POT",160,7,"Small","Small pots",106,625,640
+"411","Exp_Set2_106_160","Exp_Set2","POT",160,7,"Small","Small pots",106,625,640
+"412","Exp_Set2_106_161","Exp_Set2","POT",161,11,"Small","Small pots",106,625,640
+"413","Exp_Set2_106_162","Exp_Set2","POT",162,7,"Small","Small pots",106,625,640
+"414","Exp_Set2_106_163","Exp_Set2","POT",163,3,"Small","Small pots",106,625,640
+"415","Exp_Set2_106_164","Exp_Set2","POT",164,3,"Small","Small pots",106,625,640
+"416","Exp_Set2_106_165","Exp_Set2","POT",165,7,"Small","Small pots",106,625,640
+"417","Exp_Set2_106_165","Exp_Set2","POT",165,7,"Small","Small pots",106,625,640.666666666667
+"418","Exp_Set2_106_166","Exp_Set2","POT",166,5,"Small","Small pots",106,625,641.333333333333
+"419","Exp_Set2_106_167","Exp_Set2","POT",167,4,"Small","Small pots",106,625,642
+"420","Exp_Set2_106_168","Exp_Set2","POT",168,12,"Small","Small pots",106,625,642.666666666667
+"421","Exp_Set2_106_169","Exp_Set2","POT",169,9,"Small","Small pots",106,625,643.333333333333
+"422","Exp_Set2_106_170","Exp_Set2","POT",170,12,"Small","Small pots",106,625,644
+"423","Exp_Set2_106_170","Exp_Set2","POT",170,12,"Small","Small pots",106,625,643.833333333333
+"424","Exp_Set2_106_171","Exp_Set2","POT",171,12,"Small","Small pots",106,625,643.666666666667
+"425","Exp_Set2_106_172","Exp_Set2","POT",172,2,"Small","Small pots",106,625,643.5
+"426","Exp_Set2_106_173","Exp_Set2","POT",173,15,"Small","Small pots",106,625,643.333333333333
+"427","Exp_Set2_106_174","Exp_Set2","POT",174,16,"Small","Small pots",106,625,643.166666666667
+"428","Exp_Set2_106_175","Exp_Set2","POT",175,10,"Large","Large pots",106,625,643
+"429","Exp_Set2_106_175","Exp_Set2","POT",175,10,"Large","Large pots",106,625,644
+"430","Exp_Set2_106_176","Exp_Set2","POT",176,3,"Large","Large pots",106,625,645
+"431","Exp_Set2_106_177","Exp_Set2","POT",177,12,"Large","Large pots",106,625,646
+"432","Exp_Set2_106_178","Exp_Set2","POT",178,9,"Large","Large pots",106,625,647
+"433","Exp_Set2_106_179","Exp_Set2","POT",179,4,"Large","Large pots",106,625,648
+"434","Exp_Set2_106_180","Exp_Set2","POT",180,11,"Large","Large pots",106,625,649
+"435","Exp_Set2_106_180","Exp_Set2","POT",180,11,"Large","Large pots",106,650,650
+"436","Exp_Set2_106_180","Exp_Set2","POT",180,11,"Large","Large pots",106,650,651
+"437","Exp_Set3_107_1","Exp_Set3","HAL",1,0,NA,"Hook-and-line",107,525,531
+"438","Exp_Set3_107_1","Exp_Set3","HAL",1,0,NA,"Hook-and-line",107,525,537.2
+"439","Exp_Set3_107_2","Exp_Set3","HAL",2,18,NA,"Hook-and-line",107,525,543.4
+"440","Exp_Set3_107_3","Exp_Set3","HAL",3,20,NA,"Hook-and-line",107,525,549.6
+"441","Exp_Set3_107_10","Exp_Set3","HAL",10,22,NA,"Hook-and-line",107,550,562
+"442","Exp_Set3_107_11","Exp_Set3","HAL",11,17,NA,"Hook-and-line",107,550,562
+"443","Exp_Set3_107_11","Exp_Set3","HAL",11,17,NA,"Hook-and-line",107,550,563.833333333333
+"444","Exp_Set3_107_12","Exp_Set3","HAL",12,19,NA,"Hook-and-line",107,550,565.666666666667
+"445","Exp_Set3_107_13","Exp_Set3","HAL",13,26,NA,"Hook-and-line",107,550,567.5
+"446","Exp_Set3_107_14","Exp_Set3","HAL",14,21,NA,"Hook-and-line",107,550,569.333333333333
+"447","Exp_Set3_107_15","Exp_Set3","HAL",15,27,NA,"Hook-and-line",107,550,571.166666666667
+"448","Exp_Set3_107_16","Exp_Set3","HAL",16,24,NA,"Hook-and-line",107,550,573
+"449","Exp_Set3_107_16","Exp_Set3","HAL",16,24,NA,"Hook-and-line",107,550,574.714285714286
+"450","Exp_Set3_107_4","Exp_Set3","HAL",4,11,NA,"Hook-and-line",107,550,555.8
+"451","Exp_Set3_107_5","Exp_Set3","HAL",5,14,NA,"Hook-and-line",107,550,562
+"452","Exp_Set3_107_5","Exp_Set3","HAL",5,14,NA,"Hook-and-line",107,550,562
+"453","Exp_Set3_107_6","Exp_Set3","HAL",6,19,NA,"Hook-and-line",107,550,562
+"454","Exp_Set3_107_7","Exp_Set3","HAL",7,17,NA,"Hook-and-line",107,550,562
+"455","Exp_Set3_107_8","Exp_Set3","HAL",8,12,NA,"Hook-and-line",107,550,562
+"456","Exp_Set3_107_9","Exp_Set3","HAL",9,22,NA,"Hook-and-line",107,550,562
+"457","Exp_Set3_107_17","Exp_Set3","HAL",17,24,NA,"Hook-and-line",107,575,576.428571428571
+"458","Exp_Set3_107_18","Exp_Set3","HAL",18,23,NA,"Hook-and-line",107,575,578.142857142857
+"459","Exp_Set3_107_19","Exp_Set3","HAL",19,19,NA,"Hook-and-line",107,575,579.857142857143
+"460","Exp_Set3_107_20","Exp_Set3","HAL",20,10,NA,"Hook-and-line",107,575,581.571428571429
+"461","Exp_Set3_107_21","Exp_Set3","HAL",21,9,NA,"Hook-and-line",107,575,583.285714285714
+"462","Exp_Set3_107_22","Exp_Set3","HAL",22,13,NA,"Hook-and-line",107,575,585
+"463","Exp_Set3_107_22","Exp_Set3","HAL",22,13,NA,"Hook-and-line",107,575,586
+"464","Exp_Set3_107_23","Exp_Set3","HAL",23,23,NA,"Hook-and-line",107,575,587
+"465","Exp_Set3_107_24","Exp_Set3","HAL",24,21,NA,"Hook-and-line",107,575,588
+"466","Exp_Set3_107_25","Exp_Set3","HAL",25,23,NA,"Hook-and-line",107,575,589
+"467","Exp_Set3_107_26","Exp_Set3","HAL",26,26,NA,"Hook-and-line",107,575,590
+"468","Exp_Set3_107_27","Exp_Set3","HAL",27,24,NA,"Hook-and-line",107,575,591
+"469","Exp_Set3_107_27","Exp_Set3","HAL",27,24,NA,"Hook-and-line",107,575,592.333333333333
+"470","Exp_Set3_107_28","Exp_Set3","HAL",28,14,NA,"Hook-and-line",107,575,593.666666666667
+"471","Exp_Set3_107_29","Exp_Set3","HAL",29,16,NA,"Hook-and-line",107,575,595
+"472","Exp_Set3_107_30","Exp_Set3","HAL",30,22,NA,"Hook-and-line",107,575,596.333333333333
+"473","Exp_Set3_107_31","Exp_Set3","HAL",31,20,NA,"Hook-and-line",107,575,597.666666666667
+"474","Exp_Set3_107_32","Exp_Set3","HAL",32,20,NA,"Hook-and-line",107,575,599
+"475","Exp_Set3_107_32","Exp_Set3","HAL",32,20,NA,"Hook-and-line",107,575,599.75
+"476","Exp_Set3_107_33","Exp_Set3","HAL",33,20,NA,"Hook-and-line",107,600,600.5
+"477","Exp_Set3_107_34","Exp_Set3","HAL",34,19,NA,"Hook-and-line",107,600,601.25
+"478","Exp_Set3_107_35","Exp_Set3","HAL",35,22,NA,"Hook-and-line",107,600,602
+"479","Exp_Set3_107_35","Exp_Set3","HAL",35,22,NA,"Hook-and-line",107,600,604
+"480","Exp_Set3_107_36","Exp_Set3","HAL",36,23,NA,"Hook-and-line",107,600,606
+"481","Exp_Set3_107_37","Exp_Set3","HAL",37,16,NA,"Hook-and-line",107,600,608
+"482","Exp_Set3_107_37","Exp_Set3","HAL",37,16,NA,"Hook-and-line",107,600,607.833333333333
+"483","Exp_Set3_107_38","Exp_Set3","HAL",38,22,NA,"Hook-and-line",107,600,607.666666666667
+"484","Exp_Set3_107_39","Exp_Set3","HAL",39,19,NA,"Hook-and-line",107,600,607.5
+"485","Exp_Set3_107_40","Exp_Set3","HAL",40,18,NA,"Hook-and-line",107,600,607.333333333333
+"486","Exp_Set3_107_41","Exp_Set3","HAL",41,19,NA,"Hook-and-line",107,600,607.166666666667
+"487","Exp_Set3_107_42","Exp_Set3","HAL",42,16,NA,"Hook-and-line",107,600,607
+"488","Exp_Set3_107_42","Exp_Set3","HAL",42,16,NA,"Hook-and-line",107,600,607.5
+"489","Exp_Set3_107_43","Exp_Set3","HAL",43,14,NA,"Hook-and-line",107,600,608
+"490","Exp_Set3_107_44","Exp_Set3","HAL",44,17,NA,"Hook-and-line",107,600,608.5
+"491","Exp_Set3_107_45","Exp_Set3","HAL",45,22,NA,"Hook-and-line",107,600,609
+"492","Exp_Set3_107_46","Exp_Set3","HAL",46,17,NA,"Hook-and-line",107,600,609.5
+"493","Exp_Set3_107_47","Exp_Set3","HAL",47,17,NA,"Hook-and-line",107,600,610
+"494","Exp_Set3_107_47","Exp_Set3","HAL",47,17,NA,"Hook-and-line",107,600,611.666666666667
+"495","Exp_Set3_107_48","Exp_Set3","HAL",48,22,NA,"Hook-and-line",107,600,613.333333333333
+"496","Exp_Set3_107_49","Exp_Set3","HAL",49,21,NA,"Hook-and-line",107,600,615
+"497","Exp_Set3_107_50","Exp_Set3","HAL",50,25,NA,"Hook-and-line",107,600,616.666666666667
+"498","Exp_Set3_107_51","Exp_Set3","HAL",51,26,NA,"Hook-and-line",107,600,618.333333333333
+"499","Exp_Set3_107_52","Exp_Set3","HAL",52,26,NA,"Hook-and-line",107,600,620
+"500","Exp_Set3_107_52","Exp_Set3","HAL",52,26,NA,"Hook-and-line",107,600,621
+"501","Exp_Set3_107_53","Exp_Set3","HAL",53,14,NA,"Hook-and-line",107,600,622
+"502","Exp_Set3_107_54","Exp_Set3","HAL",54,26,NA,"Hook-and-line",107,600,623
+"503","Exp_Set3_107_55","Exp_Set3","HAL",55,26,NA,"Hook-and-line",107,600,624
+"504","Exp_Set3_107_56","Exp_Set3","HAL",56,16,NA,"Hook-and-line",107,625,625
+"505","Exp_Set3_107_57","Exp_Set3","HAL",57,18,NA,"Hook-and-line",107,625,626
+"506","Exp_Set3_107_57","Exp_Set3","HAL",57,18,NA,"Hook-and-line",107,625,629.666666666667
+"507","Exp_Set3_107_58","Exp_Set3","HAL",58,23,NA,"Hook-and-line",107,625,633.333333333333
+"508","Exp_Set3_107_59","Exp_Set3","HAL",59,18,NA,"Hook-and-line",107,625,637
+"509","Exp_Set3_107_60","Exp_Set3","HAL",60,22,NA,"Hook-and-line",107,625,640.666666666667
+"510","Exp_Set3_107_61","Exp_Set3","HAL",61,19,NA,"Hook-and-line",107,625,644.333333333333
+"511","Exp_Set3_107_62","Exp_Set3","HAL",62,22,NA,"Hook-and-line",107,625,648
+"512","Exp_Set3_107_62","Exp_Set3","HAL",62,22,NA,"Hook-and-line",107,625,647
+"513","Exp_Set3_107_63","Exp_Set3","HAL",63,19,NA,"Hook-and-line",107,625,646
+"514","Exp_Set3_107_64","Exp_Set3","HAL",64,21,NA,"Hook-and-line",107,625,645
+"515","Exp_Set3_107_65","Exp_Set3","HAL",65,17,NA,"Hook-and-line",107,625,644
+"516","Exp_Set3_107_66","Exp_Set3","HAL",66,22,NA,"Hook-and-line",107,625,643
+"517","Exp_Set3_107_67","Exp_Set3","HAL",67,16,NA,"Hook-and-line",107,625,642
+"518","Exp_Set3_107_67","Exp_Set3","HAL",67,16,NA,"Hook-and-line",107,625,642.5
+"519","Exp_Set3_107_68","Exp_Set3","HAL",68,23,NA,"Hook-and-line",107,625,643
+"520","Exp_Set3_107_69","Exp_Set3","HAL",69,9,NA,"Hook-and-line",107,625,643.5
+"521","Exp_Set3_107_70","Exp_Set3","HAL",70,18,NA,"Hook-and-line",107,625,644
+"522","Exp_Set3_107_71","Exp_Set3","HAL",71,22,NA,"Hook-and-line",107,625,644.5
+"523","Exp_Set3_107_72","Exp_Set3","HAL",72,15,NA,"Hook-and-line",107,625,645
+"524","Exp_Set3_107_72","Exp_Set3","HAL",72,15,NA,"Hook-and-line",107,625,646.166666666667
+"525","Exp_Set3_107_73","Exp_Set3","HAL",73,18,NA,"Hook-and-line",107,625,647.333333333333
+"526","Exp_Set3_107_74","Exp_Set3","HAL",74,12,NA,"Hook-and-line",107,625,648.5
+"527","Exp_Set3_107_75","Exp_Set3","HAL",75,15,NA,"Hook-and-line",107,625,649.666666666667
+"528","Exp_Set3_107_76","Exp_Set3","HAL",76,14,NA,"Hook-and-line",107,650,650.833333333333
+"529","Exp_Set3_107_77","Exp_Set3","HAL",77,15,NA,"Hook-and-line",107,650,652
+"530","Exp_Set3_107_77","Exp_Set3","HAL",77,15,NA,"Hook-and-line",107,650,652.833333333333
+"531","Exp_Set3_107_78","Exp_Set3","HAL",78,5,NA,"Hook-and-line",107,650,653.666666666667
+"532","Exp_Set3_107_79","Exp_Set3","HAL",79,10,NA,"Hook-and-line",107,650,654.5
+"533","Exp_Set3_107_80","Exp_Set3","HAL",80,9,NA,"Hook-and-line",107,650,655.333333333333
+"534","Exp_Set3_107_81","Exp_Set3","HAL",81,22,NA,"Hook-and-line",107,650,656.166666666667
+"535","Exp_Set3_107_82","Exp_Set3","HAL",82,20,NA,"Hook-and-line",107,650,657
+"536","Exp_Set3_107_82","Exp_Set3","HAL",82,20,NA,"Hook-and-line",107,650,657.166666666667
+"537","Exp_Set3_107_83","Exp_Set3","HAL",83,18,NA,"Hook-and-line",107,650,657.333333333333
+"538","Exp_Set3_107_84","Exp_Set3","HAL",84,13,NA,"Hook-and-line",107,650,657.5
+"539","Exp_Set3_107_85","Exp_Set3","HAL",85,21,NA,"Hook-and-line",107,650,657.666666666667
+"540","Exp_Set3_107_86","Exp_Set3","HAL",86,13,NA,"Hook-and-line",107,650,657.833333333333
+"541","Exp_Set3_107_87","Exp_Set3","HAL",87,4,NA,"Hook-and-line",107,650,658
+"542","Exp_Set3_107_87","Exp_Set3","HAL",87,4,NA,"Hook-and-line",107,650,659.5
+"543","Exp_Set3_107_88","Exp_Set3","HAL",88,6,NA,"Hook-and-line",107,650,661
+"544","Exp_Set3_107_89","Exp_Set3","HAL",89,7,NA,"Hook-and-line",107,650,662.5
+"545","Exp_Set3_107_90","Exp_Set3","HAL",90,10,NA,"Hook-and-line",107,650,664
+"546","Exp_Set3_107_91","Exp_Set3","HAL",91,6,NA,"Hook-and-line",107,650,665.5
+"547","Exp_Set3_107_92","Exp_Set3","HAL",92,7,NA,"Hook-and-line",107,650,667
+"548","Exp_Set3_107_92","Exp_Set3","HAL",92,7,NA,"Hook-and-line",107,650,668.5
+"549","Exp_Set3_107_92","Exp_Set3","HAL",92,7,NA,"Hook-and-line",107,650,670
+"550","Exp_Set3_108_102","Exp_Set3","POT",102,18,"Small","Small pots",108,550,573.5
+"551","Exp_Set3_108_103","Exp_Set3","POT",103,13,"Small","Small pots",108,550,571.333333333333
+"552","Exp_Set3_108_104","Exp_Set3","POT",104,17,"Small","Small pots",108,550,569.166666666667
+"553","Exp_Set3_108_105","Exp_Set3","POT",105,11,"Small","Small pots",108,550,567
+"554","Exp_Set3_108_105","Exp_Set3","POT",105,11,"Small","Small pots",108,550,568
+"555","Exp_Set3_108_106","Exp_Set3","POT",106,16,"Small","Small pots",108,550,569
+"556","Exp_Set3_108_93","Exp_Set3","POT",93,17,"Large","Large pots",108,550,564
+"557","Exp_Set3_108_93","Exp_Set3","POT",93,17,"Large","Large pots",108,550,565
+"558","Exp_Set3_108_94","Exp_Set3","POT",94,15,"Large","Large pots",108,550,566
+"559","Exp_Set3_108_95","Exp_Set3","POT",95,17,"Large","Large pots",108,550,567
+"560","Exp_Set3_108_95","Exp_Set3","POT",95,17,"Large","Large pots",108,550,569.166666666667
+"561","Exp_Set3_108_96","Exp_Set3","POT",96,14,"Large","Large pots",108,550,571.333333333333
+"562","Exp_Set3_108_97","Exp_Set3","POT",97,11,"Large","Large pots",108,550,573.5
+"563","Exp_Set3_108_100","Exp_Set3","POT",100,22,"Small","Small pots",108,575,580
+"564","Exp_Set3_108_100","Exp_Set3","POT",100,22,"Small","Small pots",108,575,577.833333333333
+"565","Exp_Set3_108_101","Exp_Set3","POT",101,13,"Small","Small pots",108,575,575.666666666667
+"566","Exp_Set3_108_106","Exp_Set3","POT",106,16,"Small","Small pots",108,575,577
+"567","Exp_Set3_108_107","Exp_Set3","POT",107,9,"Small","Small pots",108,575,585
+"568","Exp_Set3_108_108","Exp_Set3","POT",108,19,"Small","Small pots",108,575,593
+"569","Exp_Set3_108_98","Exp_Set3","POT",98,28,"Small","Small pots",108,575,575.666666666667
+"570","Exp_Set3_108_99","Exp_Set3","POT",99,6,"Small","Small pots",108,575,577.833333333333
+"571","Exp_Set3_108_109","Exp_Set3","POT",109,9,"Small","Small pots",108,600,601
+"572","Exp_Set3_108_110","Exp_Set3","POT",110,15,"Small","Small pots",108,600,609
+"573","Exp_Set3_108_110","Exp_Set3","POT",110,15,"Small","Small pots",108,600,611.833333333333
+"574","Exp_Set3_108_111","Exp_Set3","POT",111,17,"Small","Small pots",108,600,614.666666666667
+"575","Exp_Set3_108_112","Exp_Set3","POT",112,7,"Small","Small pots",108,600,617.5
+"576","Exp_Set3_108_113","Exp_Set3","POT",113,19,"Small","Small pots",108,600,620.333333333333
+"577","Exp_Set3_108_114","Exp_Set3","POT",114,9,"Small","Small pots",108,600,623.166666666667
+"578","Exp_Set3_108_128","Exp_Set3","POT",128,3,"Small","Small pots",108,600,622.666666666667
+"579","Exp_Set3_108_129","Exp_Set3","POT",129,10,"Small","Small pots",108,600,619.833333333333
+"580","Exp_Set3_108_130","Exp_Set3","POT",130,18,"Small","Small pots",108,600,617
+"581","Exp_Set3_108_130","Exp_Set3","POT",130,18,"Small","Small pots",108,600,618.833333333333
+"582","Exp_Set3_108_131","Exp_Set3","POT",131,12,"Small","Small pots",108,600,620.666666666667
+"583","Exp_Set3_108_132","Exp_Set3","POT",132,14,"Small","Small pots",108,600,622.5
+"584","Exp_Set3_108_133","Exp_Set3","POT",133,8,"Small","Small pots",108,600,624.333333333333
+"585","Exp_Set3_108_115","Exp_Set3","POT",115,18,"Small","Small pots",108,625,626
+"586","Exp_Set3_108_115","Exp_Set3","POT",115,18,"Small","Small pots",108,625,626.833333333333
+"587","Exp_Set3_108_116","Exp_Set3","POT",116,6,"Small","Small pots",108,625,627.666666666667
+"588","Exp_Set3_108_118","Exp_Set3","POT",118,10,"Small","Small pots",108,625,629.333333333333
+"589","Exp_Set3_108_119","Exp_Set3","POT",119,5,"Small","Small pots",108,625,630.166666666667
+"590","Exp_Set3_108_120","Exp_Set3","POT",120,7,"Small","Small pots",108,625,631
+"591","Exp_Set3_108_120","Exp_Set3","POT",120,7,"Small","Small pots",108,625,631.5
+"592","Exp_Set3_108_121","Exp_Set3","POT",121,2,"Small","Small pots",108,625,632
+"593","Exp_Set3_108_122","Exp_Set3","POT",122,11,"Small","Small pots",108,625,632.5
+"594","Exp_Set3_108_123","Exp_Set3","POT",123,8,"Small","Small pots",108,625,633
+"595","Exp_Set3_108_124","Exp_Set3","POT",124,20,"Small","Small pots",108,625,633.5
+"596","Exp_Set3_108_125","Exp_Set3","POT",125,8,"Small","Small pots",108,625,634
+"597","Exp_Set3_108_125","Exp_Set3","POT",125,8,"Small","Small pots",108,625,631.166666666667
+"598","Exp_Set3_108_126","Exp_Set3","POT",126,12,"Small","Small pots",108,625,628.333333333333
+"599","Exp_Set3_108_127","Exp_Set3","POT",127,12,"Small","Small pots",108,625,625.5
+"600","Exp_Set3_108_134","Exp_Set3","POT",134,7,"Small","Small pots",108,625,626.166666666667
+"601","Exp_Set3_108_135","Exp_Set3","POT",135,6,"Small","Small pots",108,625,628
+"602","Exp_Set3_108_135","Exp_Set3","POT",135,6,"Small","Small pots",108,625,629.5
+"603","Exp_Set3_108_136","Exp_Set3","POT",136,14,"Small","Small pots",108,625,631
+"604","Exp_Set3_108_137","Exp_Set3","POT",137,16,"Small","Small pots",108,625,632.5
+"605","Exp_Set3_108_138","Exp_Set3","POT",138,13,"Small","Small pots",108,625,634
+"606","Exp_Set3_108_139","Exp_Set3","POT",139,8,"Small","Small pots",108,625,635.5
+"607","Exp_Set3_108_140","Exp_Set3","POT",140,5,"Small","Small pots",108,625,637
+"608","Exp_Set3_108_140","Exp_Set3","POT",140,5,"Small","Small pots",108,625,637.5
+"609","Exp_Set3_108_141","Exp_Set3","POT",141,2,"Small","Small pots",108,625,638
+"610","Exp_Set3_108_142","Exp_Set3","POT",142,4,"Small","Small pots",108,625,638.5
+"611","Exp_Set3_108_143","Exp_Set3","POT",143,6,"Small","Small pots",108,625,639
+"612","Exp_Set3_108_144","Exp_Set3","POT",144,2,"Small","Small pots",108,625,639.5
+"613","Exp_Set3_108_145","Exp_Set3","POT",145,8,"Small","Small pots",108,625,640
+"614","Exp_Set3_108_145","Exp_Set3","POT",145,8,"Small","Small pots",108,625,640.666666666667
+"615","Exp_Set3_108_146","Exp_Set3","POT",146,6,"Small","Small pots",108,625,641.333333333333
+"616","Exp_Set3_108_147","Exp_Set3","POT",147,6,"Small","Small pots",108,625,642
+"617","Exp_Set3_108_148","Exp_Set3","POT",148,3,"Small","Small pots",108,625,642.666666666667
+"618","Exp_Set3_108_149","Exp_Set3","POT",149,15,"Small","Small pots",108,625,643.333333333333
+"619","Exp_Set3_108_150","Exp_Set3","POT",150,11,"Small","Small pots",108,625,644
+"620","Exp_Set3_108_150","Exp_Set3","POT",150,11,"Small","Small pots",108,625,645.5
+"621","Exp_Set3_108_151","Exp_Set3","POT",151,10,"Small","Small pots",108,625,647
+"622","Exp_Set3_108_152","Exp_Set3","POT",152,13,"Small","Small pots",108,625,648.5
+"623","Exp_Set3_108_153","Exp_Set3","POT",153,14,"Small","Small pots",108,650,650
+"624","Exp_Set3_108_154","Exp_Set3","POT",154,9,"Small","Small pots",108,650,651.5
+"625","Exp_Set3_108_155","Exp_Set3","POT",155,7,"Small","Small pots",108,650,653
+"626","Exp_Set3_108_155","Exp_Set3","POT",155,7,"Small","Small pots",108,650,654.5
+"627","Exp_Set3_108_156","Exp_Set3","POT",156,3,"Small","Small pots",108,650,656
+"628","Exp_Set3_108_157","Exp_Set3","POT",157,6,"Small","Small pots",108,650,657.5
+"629","Exp_Set3_108_158","Exp_Set3","POT",158,7,"Small","Small pots",108,650,659
+"630","Exp_Set3_108_159","Exp_Set3","POT",159,13,"Small","Small pots",108,650,660.5
+"631","Exp_Set3_108_160","Exp_Set3","POT",160,6,"Small","Small pots",108,650,662
+"632","Exp_Set3_108_160","Exp_Set3","POT",160,6,"Small","Small pots",108,650,663.666666666667
+"633","Exp_Set3_108_161","Exp_Set3","POT",161,12,"Small","Small pots",108,650,665.333333333333
+"634","Exp_Set3_108_162","Exp_Set3","POT",162,18,"Small","Small pots",108,650,667
+"635","Exp_Set3_108_163","Exp_Set3","POT",163,6,"Small","Small pots",108,650,668.666666666667
+"636","Exp_Set3_108_164","Exp_Set3","POT",164,14,"Small","Small pots",108,650,670.333333333333
+"637","Exp_Set3_108_165","Exp_Set3","POT",165,4,"Small","Small pots",108,650,672
+"638","Exp_Set3_108_165","Exp_Set3","POT",165,4,"Small","Small pots",108,650,673.166666666667
+"639","Exp_Set3_108_166","Exp_Set3","POT",166,8,"Small","Small pots",108,650,674.333333333333
+"640","Exp_Set3_108_167","Exp_Set3","POT",167,10,"Small","Small pots",108,675,675.5
+"641","Exp_Set3_108_168","Exp_Set3","POT",168,8,"Small","Small pots",108,675,676.666666666667
+"642","Exp_Set3_108_169","Exp_Set3","POT",169,5,"Small","Small pots",108,675,677.833333333333
+"643","Exp_Set3_108_170","Exp_Set3","POT",170,5,"Small","Small pots",108,675,679
+"644","Exp_Set3_108_170","Exp_Set3","POT",170,5,"Small","Small pots",108,675,679.833333333333
+"645","Exp_Set3_108_171","Exp_Set3","POT",171,8,"Small","Small pots",108,675,680.666666666667
+"646","Exp_Set3_108_172","Exp_Set3","POT",172,10,"Small","Small pots",108,675,681.5
+"647","Exp_Set3_108_173","Exp_Set3","POT",173,7,"Small","Small pots",108,675,682.333333333333
+"648","Exp_Set3_108_174","Exp_Set3","POT",174,4,"Small","Small pots",108,675,683.166666666667
+"649","Exp_Set3_108_175","Exp_Set3","POT",175,7,"Small","Small pots",108,675,684
+"650","Exp_Set3_108_175","Exp_Set3","POT",175,7,"Small","Small pots",108,675,684.833333333333
+"651","Exp_Set3_108_176","Exp_Set3","POT",176,18,"Small","Small pots",108,675,685.666666666667
+"652","Exp_Set3_108_177","Exp_Set3","POT",177,12,"Small","Small pots",108,675,686.5
+"653","Exp_Set3_108_178","Exp_Set3","POT",178,0,"Large","Large pots",108,675,687.333333333333
+"654","Exp_Set3_108_179","Exp_Set3","POT",179,15,"Large","Large pots",108,675,688.166666666667
+"655","Exp_Set3_108_180","Exp_Set3","POT",180,0,"Large","Large pots",108,675,689
+"656","Exp_Set3_108_180","Exp_Set3","POT",180,0,"Large","Large pots",108,675,689
+"657","Exp_Set3_108_181","Exp_Set3","POT",181,12,"Large","Large pots",108,675,689
+"658","Exp_Set3_108_182","Exp_Set3","POT",182,6,"Large","Large pots",108,675,689
+"659","Exp_Set3_108_183","Exp_Set3","POT",183,26,"Large","Large pots",108,675,689
+"660","Exp_Set3_108_183","Exp_Set3","POT",183,26,"Large","Large pots",108,675,689

@@ -1,0 +1,74 @@
+---
+title: "Slinky Pot Visualizations"
+author: "Matthew LH. Cheng"
+date: "3/17/2023"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(here)
+library(lubridate)
+library(ggthemes)
+
+# Bring in catch data
+catch <- read_csv('results/synthesis/clean_catch_2021.csv') %>% 
+  bind_rows(read_csv('results/synthesis/clean_catch_2022.csv'))
+
+# Bind in length data
+lens <- read_csv('results/synthesis/clean_lengths_2021.csv') %>% 
+  bind_rows(read_csv('results/synthesis/clean_lengths_2022.csv'))
+
+# Jane's theme
+theme_set(theme_bw(base_size = 15) + 
+            theme(panel.border = element_blank(), 
+                  panel.grid.major = element_blank(),
+                  panel.grid.minor = element_blank(), 
+                  axis.text = element_text(color = "black"),
+                  axis.line = element_line(colour = "black")))
+
+# Do some quick data munging
+# Removing certain fields
+catch <- catch %>% 
+    mutate(depth = ifelse(depth == 0, NA, depth),
+           interp_depth = zoo::na.approx(depth, rule = 2),
+           depth_round = plyr::round_any(interp_depth, 25, floor))
+
+
+```
+
+
+# Catch Compositions
+```{r}
+# Compute catch compositions here
+catch_comp <- catch %>% 
+  filter(!c(species %in% c("Rougheye/Shortraker Rockfish",
+                           "Baited Hook", "Ineffective Hook",
+                           "Trap Door Open", "Empty Pot",
+                           "Lips or Jaws - Whale Depredation", #))) %>% #,
+                           "Brittle Star", "Sea Whip",
+                           "Sea Cucumber", "Brittle Starfish"))) %>%
+  group_by(year, gear, station, species) %>% 
+  summarize(n = sum(catch)) %>% 
+  group_by(year, gear, station) %>% 
+  mutate(prop = n / sum(n)) %>% 
+  ungroup() %>% 
+  mutate(Species = fct_reorder(species, prop, .desc = TRUE))
+
+# Catch Compositions across stations, gears, and years
+catch_comp %>% 
+  ggplot(aes(x = gear, y = prop, fill = Species)) +
+  geom_col() +
+  scale_fill_viridis(discrete = TRUE, option = 'A', direction = -1) +
+  scale_colour_viridis(discrete = TRUE, option = 'A', direction = -1) +
+  facet_grid(station~year) +
+  labs(x = "Gear", y = "Proportion", fill = "Species")
+```
+
+# Sablefish Catch Rates
+```{r}
+
+```
+

@@ -328,6 +328,8 @@ catchrates <- catchrates %>%
   mutate(depth = plyr::round_any(interp_depth, 25, floor)) %>%
   arrange(haul, depth)  
 
+write.csv(catchrates, here("results", "2021", "2021_catchrates_clean.csv"))
+
 dep_catchrate_plot <- catchrates %>% 
   group_by(gear, station, depth) %>% 
   summarize(n_sablefish = sum(n_sablefish)) %>% 
@@ -908,6 +910,7 @@ catch_clean <- catchsum %>%
   left_join(catch %>% 
               distinct(station, haul, skate, depth) %>% 
               group_by(station, haul, skate) %>% 
+              filter(depth == max(depth)) %>%
               dplyr::summarise(depth = sum(depth)) %>% 
               group_by(station, haul) %>%
               mutate(depth = ifelse(depth == 0, NA, depth),
