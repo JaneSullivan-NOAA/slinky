@@ -1,0 +1,1539 @@
+year,date,gear,station,haul,skate_or_pot,depth,species,catch,depredation,pot_size,escape_ring,escape_ring_notes
+2023,2023-07-28,Hooks,201,103,1,671,Baited Hook,5,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,1,671,Ineffective Hook,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,2,669.5,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,2,669.5,Ineffective Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,2,669.5,Sablefish,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,3,668,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,3,668,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,3,668,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,3,668,Sablefish,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,4,666.5,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,4,666.5,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,4,666.5,Ineffective Hook,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,4,666.5,Sablefish,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,5,665,Baited Hook,23,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,5,665,Ineffective Hook,5,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,5,665,Sablefish,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,6,662.6,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,6,662.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,6,662.6,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,6,662.6,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,7,660.2,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,7,660.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,7,660.2,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,8,657.8,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,8,657.8,Sablefish,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,8,657.8,Sablefish,1,1,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,8,657.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,9,655.4,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,9,655.4,Sablefish,27,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,9,655.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,10,653,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,10,653,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,10,653,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,10,653,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,11,651.2,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,11,651.2,Sablefish,26,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,11,651.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,12,649.4,Baited Hook,26,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,12,649.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,12,649.4,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,12,649.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,13,647.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,13,647.6,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,13,647.6,Sablefish,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,13,647.6,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,14,645.8,Baited Hook,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,14,645.8,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,14,645.8,Sablefish,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,14,645.8,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,15,644,Baited Hook,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,15,644,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,15,644,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,16,642.2,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,16,642.2,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,16,642.2,Sablefish,25,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,16,642.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,17,640.4,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,17,640.4,Ineffective Hook,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,17,640.4,Sablefish,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,18,638.6,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,18,638.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,18,638.6,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,18,638.6,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,19,636.8,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,19,636.8,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,19,636.8,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,20,635,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,20,635,Sablefish,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,20,635,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,20,635,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,21,633.2,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,21,633.2,Sablefish,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,22,631.4,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,22,631.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,22,631.4,Sablefish,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,23,629.6,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,23,629.6,Sablefish,23,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,24,627.8,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,24,627.8,Sablefish,30,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,24,627.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,25,626,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,25,626,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,25,626,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,25,626,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,26,624.6,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,26,624.6,Sablefish,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,26,624.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,27,623.2,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,27,623.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,27,623.2,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,27,623.2,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,28,621.8,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,28,621.8,Sablefish,27,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,28,621.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,29,620.4,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,29,620.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,29,620.4,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,29,620.4,Sablefish,21,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,29,620.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,30,619,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,30,619,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,30,619,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,30,619,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,31,616.6,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,31,616.6,Pacific Pomfret,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,31,616.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,31,616.6,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,32,614.2,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,32,614.2,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,32,614.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,32,614.2,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,33,611.8,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,33,611.8,Ineffective Hook,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,33,611.8,Sablefish,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,34,609.4,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,34,609.4,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,34,609.4,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,34,609.4,Sablefish,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,34,609.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,35,607,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,35,607,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,35,607,Sablefish,26,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,35,607,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,36,606.2,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,36,606.2,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,36,606.2,Sablefish,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,37,605.4,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,37,605.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,37,605.4,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,37,605.4,Sablefish,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,38,604.6,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,38,604.6,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,38,604.6,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,38,604.6,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,38,604.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,39,603.8,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,39,603.8,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,39,603.8,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,39,603.8,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,40,603,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,40,603,Sablefish,23,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,40,603,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,41,602.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,41,602.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,41,602.6,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,42,602.2,Angulatus Tanner Crab,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,42,602.2,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,42,602.2,Sablefish,24,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,42,602.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,43,601.8,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,43,601.8,Blackfooted Albatross,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,43,601.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,43,601.8,Sablefish,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,43,601.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,44,601.4,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,44,601.4,Jellyfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,44,601.4,Sablefish,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,44,601.4,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,45,601,Angulatus Tanner Crab,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,45,601,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,45,601,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,45,601,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,45,601,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,45,601,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,46,600.4,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,46,600.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,46,600.4,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,46,600.4,Sablefish,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,46,600.4,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,47,599.8,Baited Hook,24,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,47,599.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,47,599.8,Sablefish,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,48,599.2,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,48,599.2,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,48,599.2,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,48,599.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,49,598.6,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,49,598.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,49,598.6,Sablefish,24,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,49,598.6,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,49,598.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,50,598,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,50,598,Sablefish,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,51,597,Baited Hook,23,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,51,597,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,52,596,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,52,596,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,52,596,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,52,596,Sablefish,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,52,596,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,53,595,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,53,595,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,53,595,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,53,595,Sablefish,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,54,594,Baited Hook,25,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,54,594,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,54,594,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,55,593,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,55,593,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,55,593,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,56,591.8,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,56,591.8,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,56,591.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,57,590.6,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,57,590.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,57,590.6,Sablefish,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,58,589.4,Baited Hook,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,58,589.4,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,58,589.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,59,588.2,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,59,588.2,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,59,588.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,60,587,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,60,587,Sablefish,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,60,587,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,61,586.2,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,61,586.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,61,586.2,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,61,586.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,62,585.4,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,62,585.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,62,585.4,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,62,585.4,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,62,585.4,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,63,584.6,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,63,584.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,63,584.6,Sablefish,28,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,63,584.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,64,583.8,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,64,583.8,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,65,583,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,65,583,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,65,583,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,65,583,Sablefish,1,1,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,66,582.8,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,66,582.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,66,582.8,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,66,582.8,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,67,582.6,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,67,582.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,68,582.4,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,68,582.4,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,68,582.4,Lips or Jaws - Whale Depredation,1,1,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,68,582.4,Sablefish,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,69,582.2,Baited Hook,27,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,69,582.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,69,582.2,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,69,582.2,Sablefish,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,70,582,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,70,582,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,71,581.6,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,71,581.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,71,581.6,Sablefish,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,72,581.2,Baited Hook,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,72,581.2,Sablefish,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,73,580.8,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,73,580.8,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,73,580.8,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,73,580.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,74,580.4,Baited Hook,27,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,74,580.4,Sablefish,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,74,580.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,75,580,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,75,580,Sablefish,14,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,75,580,Shortspine Thornyhead,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,76,579.6,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,76,579.6,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,76,579.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,77,579.2,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,77,579.2,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,77,579.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,78,578.8,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,78,578.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,78,578.8,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,78,578.8,Sablefish,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,79,578.4,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,79,578.4,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,79,578.4,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,79,578.4,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,79,578.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,80,578,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,80,578,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,80,578,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,80,578,Sablefish,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,81,578,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,81,578,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,81,578,Sablefish,19,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,81,578,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,82,578,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,82,578,Giant Grenadier,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,82,578,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,82,578,Sablefish,21,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,82,578,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,83,578,Baited Hook,5,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,83,578,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,83,578,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,84,578,Baited Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,84,578,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,84,578,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,85,578,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,85,578,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,85,578,Sablefish,28,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,86,578.8,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,86,578.8,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,86,578.8,Sablefish,20,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,87,579.6,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,87,579.6,Sablefish,18,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,87,579.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,88,580.4,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,88,580.4,Ineffective Hook,7,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,88,580.4,Sablefish,13,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,89,581.2,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,89,581.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,89,581.2,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,89,581.2,Sablefish,15,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,89,581.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,90,582,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,90,582,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,90,582,Ineffective Hook,5,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,90,582,Sablefish,12,0,NA,NA,NA
+2023,2023-07-28,Hooks,201,103,90,582,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-28,Slinky pots,201,104,91,569,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,92,570,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,93,570,Sablefish,15,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,94,572,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,95,572,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,96,572,Sablefish,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,97,574,Angulatus Tanner Crab,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,97,574,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,98,576,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,98,576,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,99,578,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,100,579,Empty pot,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,101,582,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,102,581,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,103,582,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,104,583,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,105,584,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,105,584,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,106,587,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,107,587,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,108,589,Sablefish,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,109,589,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,109,589,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,110,592,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,111,593,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,112,594,Sablefish,14,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,113,596,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,114,598,Empty pot,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,115,599,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,116,600,Angulatus Tanner Crab,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,116,600,Sablefish,18,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,117,602,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,117,602,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,118,602,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,118,602,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,119,606,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,120,606,Sablefish,14,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,121,606,Sablefish,20,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,121,606,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,122,607,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,122,607,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,123,607,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,123,607,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,124,607,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,125,609,Sablefish,10,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,126,611,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,127,612,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,128,615,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,128,615,Sablefish,16,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,128,615,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,129,617,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,129,617,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,130,619,Sablefish,15,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,131,620,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,132,621,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,133,622,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,133,622,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,134,624,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,134,624,Snail Unidentified,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,135,624,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,135,624,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,136,623,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,136,623,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,137,626,Sablefish,10,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,137,626,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,138,628,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,139,630,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,139,630,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,140,631,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,141,632,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,141,632,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,142,635,Sablefish,18,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,142,635,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,143,635,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,143,635,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,144,637,Sablefish,12,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,145,637,Sablefish,16,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,145,637,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,146,637,Sablefish,15,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,146,637,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,147,638,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,148,641,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,149,641,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,150,644,Sablefish,10,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,151,646,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,152,646,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,153,646,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,153,646,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,154,648,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,154,648,Sablefish,15,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,155,648,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,156,648,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,156,648,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,157,647,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,158,648,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,159,648,Sablefish,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,160,644,Snarled pot,0,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,160,644,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,160,644,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,161,641,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,162,644,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,162,644,Sablefish,10,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,162,644,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,163,644,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,164,643,Sablefish,15,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,165,646,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,165,646,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,166,648,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,167,648,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,168,646,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,169,644,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,169,644,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,170,645,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,170,645,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,170,645,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,171,644,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,172,646,Sablefish,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,173,644,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,174,646,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,175,646,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,175,646,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,175,646,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,176,648,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,177,648,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,177,648,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,178,649,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,179,650,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,180,648,Sablefish,17,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,180,648,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,181,650,Sablefish,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,182,652,Sablefish,10,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,183,652,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,183,652,Shortspine Thornyhead,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,184,651,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,185,653,Empty pot,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,185,653,Trap door open,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,185,653,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,186,654,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,187,653,Sablefish,11,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,188,653,Sablefish,14,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,189,656,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,190,656,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,190,656,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,191,658,Sablefish,12,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,191,658,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,191,658,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,192,660,Sablefish,14,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,192,660,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,193,663,Sablefish,16,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,194,665,Sablefish,3,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,194,665,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,195,669,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,195,669,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,196,669,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,197,674,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,197,674,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,198,673,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,198,673,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,199,672,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,200,672,Sablefish,5,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,201,672,Sablefish,4,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,202,671,Giant Grenadier,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,202,671,Sablefish,15,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,203,672,Sablefish,6,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,203,672,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,204,671,Sablefish,8,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,204,671,Sablefish,2,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,205,674,Sablefish,7,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,206,674,Sablefish,13,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,207,673,Sablefish,10,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,207,673,Sablefish,1,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,208,674,Sablefish,16,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,209,675,Sablefish,9,NA,Small,None,NA
+2023,2023-07-28,Slinky pots,201,104,210,673,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Hooks,202,105,1,597,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,1,597,Ineffective Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,1,597,Sablefish,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,1,597,Sea Whip,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,1,597,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,2,595.5,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,2,595.5,Ineffective Hook,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,2,595.5,Sablefish,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,2,595.5,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,3,594,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,3,594,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,3,594,Ineffective Hook,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,3,594,Sablefish,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,3,594,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,4,592.5,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,4,592.5,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,4,592.5,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,4,592.5,Sablefish,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,4,592.5,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,5,591,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,5,591,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,5,591,Sablefish,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,6,587.2,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,6,587.2,Brittle Starfish,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,6,587.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,6,587.2,Sablefish,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,6,587.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,7,583.4,Baited Hook,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,7,583.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,7,583.4,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,7,583.4,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,7,583.4,Sea Whip,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,7,583.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,8,579.6,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,8,579.6,Giant Grenadier,4,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,8,579.6,Sablefish,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,9,575.8,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,9,575.8,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,9,575.8,Sablefish,23,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,9,575.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,10,572,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,10,572,Giant Grenadier,4,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,10,572,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,11,570.4,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,11,570.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,11,570.4,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,11,570.4,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,11,570.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,12,568.8,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,12,568.8,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,12,568.8,Sea Whip,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,12,568.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,13,567.2,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,13,567.2,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,13,567.2,Sablefish,8,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,14,565.6,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,14,565.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,14,565.6,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,15,564,Baited Hook,27,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,15,564,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,15,564,Sablefish,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,15,564,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,15,564,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,16,562.8,Baited Hook,25,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,16,562.8,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,16,562.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,17,561.6,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,17,561.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,17,561.6,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,17,561.6,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,18,560.4,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,18,560.4,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,18,560.4,Sablefish,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,18,560.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,19,559.2,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,19,559.2,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,19,559.2,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,19,559.2,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,19,559.2,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,20,558,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,20,558,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,20,558,Sablefish,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,21,558.6,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,21,558.6,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,21,558.6,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,21,558.6,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,21,558.6,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,21,558.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,22,559.2,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,22,559.2,Crinoid Unidentified,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,22,559.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,22,559.2,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,22,559.2,Sea Whip,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,23,559.8,Baited Hook,26,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,23,559.8,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,23,559.8,Sablefish,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,23,559.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,24,560.4,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,24,560.4,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,24,560.4,Sablefish,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,24,560.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,25,561,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,25,561,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,25,561,Sablefish,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,26,557,Baited Hook,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,26,557,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,26,557,Sablefish,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,26,557,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,27,553,Baited Hook,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,27,553,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,27,553,Shortspine Thornyhead,4,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,28,549,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,28,549,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,28,549,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,28,549,Sablefish,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,28,549,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,29,545,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,29,545,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,29,545,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,29,545,Sablefish,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,29,545,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,30,541,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,30,541,Sablefish,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,30,541,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,30,541,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,31,539.4,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,31,539.4,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,31,539.4,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,31,539.4,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,32,537.8,Baited Hook,5,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,32,537.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,32,537.8,Sablefish,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,32,537.8,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,32,537.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,33,536.2,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,33,536.2,Blackfooted Albatross,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,33,536.2,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,33,536.2,Sablefish,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,34,534.6,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,34,534.6,Sablefish,25,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,34,534.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,35,533,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,35,533,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,35,533,Sablefish,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,35,533,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,36,532,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,36,532,Sablefish,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,37,531,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,37,531,Ineffective Hook,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,37,531,Sablefish,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,37,531,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,38,530,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,38,530,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,38,530,Sablefish,1,1,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,38,530,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,38,530,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,39,529,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,39,529,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,39,529,Sablefish,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,39,529,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,40,528,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,40,528,Sablefish,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,40,528,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,41,528,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,41,528,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,41,528,Sablefish,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,41,528,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,42,528,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,42,528,Sablefish,8,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,42,528,Shortspine Thornyhead,5,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,43,528,Baited Hook,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,43,528,Sablefish,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,43,528,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,44,528,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,44,528,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,44,528,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,45,528,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,45,528,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,45,528,Sablefish,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,45,528,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,46,528.6,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,46,528.6,Sablefish,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,47,529.2,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,47,529.2,Ineffective Hook,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,47,529.2,Sablefish,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,48,529.8,Baited Hook,27,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,48,529.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,48,529.8,Sablefish,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,49,530.4,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,49,530.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,49,530.4,Sablefish,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,49,530.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,50,531,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,50,531,Sablefish,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,50,531,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,51,530.2,Baited Hook,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,51,530.2,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,51,530.2,Sablefish,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,52,529.4,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,52,529.4,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,52,529.4,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,53,528.6,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,53,528.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,53,528.6,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,54,527.8,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,54,527.8,Sablefish,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,54,527.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,55,527,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,55,527,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,55,527,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,56,527.6,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,56,527.6,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,56,527.6,Sablefish,1,1,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,56,527.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,57,528.2,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,57,528.2,Sablefish,8,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,57,528.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,58,528.8,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,58,528.8,Sablefish,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,58,528.8,Sablefish,1,1,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,59,529.4,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,59,529.4,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,59,529.4,Sablefish,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,59,529.4,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,60,530,Baited Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,60,530,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,60,530,Sablefish,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,61,531.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,61,531.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,61,531.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,61,531.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,62,533.2,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,62,533.2,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,62,533.2,Shortspine Thornyhead,4,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,63,534.8,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,63,534.8,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,63,534.8,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,64,536.4,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,64,536.4,Sablefish,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,65,538,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,65,538,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,65,538,Sablefish,20,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,65,538,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,66,537.8,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,66,537.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,66,537.8,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,66,537.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,67,537.6,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,67,537.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,67,537.6,Sablefish,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,67,537.6,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,68,537.4,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,68,537.4,Sablefish,21,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,68,537.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,68,537.4,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,69,537.2,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,69,537.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,69,537.2,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,69,537.2,Sablefish,25,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,69,537.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,70,537,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,70,537,Ineffective Hook,5,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,70,537,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,70,537,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,71,535.4,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,71,535.4,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,71,535.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,72,533.8,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,72,533.8,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,73,532.2,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,73,532.2,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,73,532.2,Sablefish,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,74,530.6,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,74,530.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,75,529,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,75,529,Lips or Jaws - Whale Depredation,1,1,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,75,529,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,76,529,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,76,529,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,76,529,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,77,529,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,77,529,Sablefish,18,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,77,529,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,78,529,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,78,529,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,78,529,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,78,529,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,79,529,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,79,529,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,79,529,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,79,529,Sablefish,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,79,529,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,80,529,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,80,529,Sablefish,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,81,529.2,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,81,529.2,Sablefish,26,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,81,529.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,82,529.4,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,82,529.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,82,529.4,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,83,529.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,83,529.6,Sablefish,22,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,83,529.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,84,529.8,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,84,529.8,Sablefish,19,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,85,530,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,85,530,Sablefish,24,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,85,530,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,86,528.8,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,86,528.8,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,86,528.8,Sablefish,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,86,528.8,Shortspine Thornyhead,4,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,87,527.6,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,87,527.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,87,527.6,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,87,527.6,Sablefish,16,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,88,526.4,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,88,526.4,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,88,526.4,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,88,526.4,Sablefish,15,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,88,526.4,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,89,525.2,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,89,525.2,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,89,525.2,Sablefish,14,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,90,524,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,90,524,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,90,524,Sablefish,17,0,NA,NA,NA
+2023,2023-07-29,Hooks,202,105,90,524,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-29,Slinky pots,202,106,91,534,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,91,534,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,92,535,Sablefish,4,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,93,535,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,94,536,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,94,536,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,95,536,Arrowtooth Flounder,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,95,536,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,96,536,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,97,538,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,98,539,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,99,540,Sablefish,14,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,99,540,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,100,541,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,100,541,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,101,542,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,102,544,Sablefish,15,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,103,546,Arrowtooth Flounder,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,103,546,Sablefish,14,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,104,548,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,104,548,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,105,548,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,105,548,Sea Anemone Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,106,549,Sablefish,16,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,107,549,Sablefish,17,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,107,549,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,108,550,Sablefish,17,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,108,550,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,109,551,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,109,551,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,110,552,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,111,554,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,111,554,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,112,555,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,112,555,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,113,556,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,114,557,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,115,559,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,115,559,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,116,559,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,117,560,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,117,560,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,118,562,Sablefish,17,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,119,563,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,120,564,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,121,566,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,122,567,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,123,568,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,124,570,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,125,571,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,126,572,Sablefish,15,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,126,572,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,127,574,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,128,575,Sablefish,15,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,128,575,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,129,576,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,130,578,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,130,578,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,131,580,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,132,581,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,132,581,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,133,582,Sablefish,16,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,133,582,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,134,585,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,135,588,Trap door open,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,135,588,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,136,588,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,137,588,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,138,590,Sablefish,16,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,138,590,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,139,591,Sablefish,19,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,139,591,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,140,594,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,141,596,Sablefish,21,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,142,597,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,142,597,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,143,597,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,144,598,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,144,598,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,144,598,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,145,598,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,146,599,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,146,599,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,147,599,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,148,597,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,149,598,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,150,602,Sablefish,19,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,151,603,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,151,603,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,152,603,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,153,604,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,154,604,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,155,601,Sablefish,14,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,156,602,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,157,603,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,157,603,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,157,603,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,157,603,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,158,605,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,159,608,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,160,608,Sablefish,14,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,161,607,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,162,606,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,163,607,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,164,607,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,164,607,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,165,608,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,166,609,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,166,609,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,167,611,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,168,613,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,169,614,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,170,614,Sablefish,6,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,170,614,Shortspine Thornyhead,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,171,613,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,172,613,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,173,613,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,173,613,Sablefish,13,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,173,613,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,174,614,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,175,616,Sablefish,10,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,176,619,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,176,619,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,177,619,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,178,619,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,178,619,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,179,618,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,180,617,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,180,617,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,181,617,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,182,617,Sablefish,14,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,183,618,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,184,617,Sablefish,18,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,184,617,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,185,617,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,186,616,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,186,616,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,187,616,Giant Grenadier,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,187,616,Sablefish,17,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,187,616,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,188,616,Sablefish,7,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,189,617,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,190,618,Sablefish,12,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,191,621,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,191,621,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,191,621,Shortspine Thornyhead,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,192,622,Trap door open,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,192,622,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,193,624,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,193,624,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,194,624,Sablefish,9,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,195,624,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,195,624,Sablefish,16,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,196,623,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,196,623,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,197,623,Sablefish,18,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,198,622,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,198,622,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,199,621,Sablefish,15,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,199,621,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,200,621,Sablefish,3,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,200,621,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,201,621,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,202,622,Sablefish,11,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,203,622,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,203,622,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,204,622,Sablefish,14,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,204,622,Sablefish,2,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,205,622,Sablefish,15,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,206,623,Sablefish,18,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,206,623,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,207,623,Empty pot,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,208,622,Sablefish,5,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,208,622,Sablefish,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,209,622,Sablefish,8,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,209,622,Snail Unidentified,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,210,622,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,210,622,Sablefish,18,NA,Small,None,NA
+2023,2023-07-29,Slinky pots,202,106,210,622,Sablefish,3,NA,Small,None,NA
+2023,2023-07-30,Hooks,203,107,1,633,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,1,633,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,1,633,Ineffective Hook,26,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,1,633,Sablefish,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,2,629.75,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,2,629.75,Ineffective Hook,16,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,2,629.75,Sablefish,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,3,626.5,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,3,626.5,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,3,626.5,Ineffective Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,3,626.5,Sablefish,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,3,626.5,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,4,623.25,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,4,623.25,Ineffective Hook,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,4,623.25,Sablefish,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,5,620,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,5,620,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,5,620,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,6,617.6,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,6,617.6,Giant Grenadier,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,6,617.6,Sablefish,25,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,6,617.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,7,615.2,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,7,615.2,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,7,615.2,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,7,615.2,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,7,615.2,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,8,612.8,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,8,612.8,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,8,612.8,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,8,612.8,Sablefish,16,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,9,610.4,Blackfooted Albatross,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,9,610.4,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,9,610.4,Sablefish,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,10,608,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,10,608,Sablefish,28,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,10,608,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,11,605,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,11,605,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,11,605,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,11,605,Sablefish,20,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,11,605,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,12,602,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,12,602,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,12,602,Sablefish,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,12,602,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,13,599,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,13,599,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,13,599,Sablefish,27,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,14,596,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,14,596,Giant Grenadier,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,14,596,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,14,596,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,15,593,Baited Hook,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,15,593,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,15,593,Sablefish,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,15,593,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,16,590.2,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,17,587.4,Baited Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,17,587.4,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,17,587.4,Sablefish,12,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,18,584.6,Baited Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,18,584.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,18,584.6,Sablefish,25,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,18,584.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,19,581.8,Baited Hook,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,19,581.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,19,581.8,Sablefish,29,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,19,581.8,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,20,579,Baited Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,20,579,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,20,579,Sablefish,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,21,575.2,Baited Hook,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,21,575.2,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,21,575.2,Longnose Skate,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,21,575.2,Sablefish,29,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,22,571.4,Baited Hook,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,22,571.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,22,571.4,Sablefish,30,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,23,567.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,23,567.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,24,563.8,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,24,563.8,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,24,563.8,Ineffective Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,24,563.8,Sablefish,16,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,25,560,Baited Hook,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,25,560,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,25,560,Sablefish,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,25,560,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,26,556.6,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,26,556.6,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,26,556.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,27,553.2,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,27,553.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,27,553.2,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,27,553.2,Sablefish,16,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,28,549.8,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,28,549.8,Sablefish,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,28,549.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,28,549.8,Spiny Dogfish,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,29,546.4,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,29,546.4,Coho Salmon,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,29,546.4,Sablefish,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,29,546.4,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,29,546.4,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,30,543,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,30,543,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,30,543,Ineffective Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,30,543,Sablefish,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,30,543,Sea Whip,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,31,540.2,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,31,540.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,31,540.2,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,31,540.2,Sablefish,15,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,31,540.2,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,31,540.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,32,537.4,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,32,537.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,32,537.4,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,32,537.4,Sablefish,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Baited Hook,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Rougheye/Shortraker Rockfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Sablefish,26,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,33,534.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,34,531.8,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,34,531.8,Sablefish,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,34,531.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,35,529,Baited Hook,7,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,35,529,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,35,529,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,35,529,Sablefish,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,35,529,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,36,525.8,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,36,525.8,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,36,525.8,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,36,525.8,Sablefish,20,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,36,525.8,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,37,522.6,Aleutian/Bering/Alaska Skate Complex,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,37,522.6,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,37,522.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,37,522.6,Sablefish,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,37,522.6,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,38,519.4,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,38,519.4,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,38,519.4,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,38,519.4,Sablefish,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,38,519.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,39,516.2,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,39,516.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,39,516.2,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,39,516.2,Sablefish,25,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,39,516.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,40,513,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,40,513,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,40,513,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,40,513,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,40,513,Sea Whip,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,41,511,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,41,511,Brittle Starfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,41,511,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,41,511,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,41,511,Sablefish,15,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,42,509,Baited Hook,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,42,509,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,42,509,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,42,509,Sablefish,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,42,509,Sea Cucumber,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,42,509,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,43,507,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,43,507,Basketstarfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,43,507,Crinoid Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,43,507,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,43,507,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,44,505,Baited Hook,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,44,505,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,44,505,Sablefish,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,44,505,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,45,503,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,45,503,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,45,503,Ineffective Hook,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,45,503,Jellyfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,45,503,Sablefish,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,46,503.8,Arrowtooth Flounder,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,46,503.8,Baited Hook,15,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,46,503.8,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,46,503.8,Sablefish,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,47,504.6,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,47,504.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,47,504.6,Sablefish,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,48,505.4,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,48,505.4,Ineffective Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,48,505.4,Sablefish,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,48,505.4,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,49,506.2,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,49,506.2,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,49,506.2,Rougheye/Shortraker Rockfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,49,506.2,Sablefish,15,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,49,506.2,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,50,507,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,50,507,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,50,507,Sablefish,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,50,507,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,51,506.8,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,51,506.8,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,51,506.8,Sablefish,22,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,51,506.8,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,52,506.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,52,506.6,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,52,506.6,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,52,506.6,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,53,506.4,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,53,506.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,53,506.4,Sablefish,26,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,53,506.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,53,506.4,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,54,506.2,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,54,506.2,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,54,506.2,Sablefish,24,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,55,506,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,55,506,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,55,506,Sablefish,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,55,506,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,56,504.4,Baited Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,56,504.4,Sablefish,24,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,56,504.4,Spiny Dogfish,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,57,502.8,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,57,502.8,Longnose Skate,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,57,502.8,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,57,502.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,58,501.2,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,58,501.2,Sablefish,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,58,501.2,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,59,499.6,Baited Hook,16,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,59,499.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,59,499.6,Sablefish,15,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,60,498,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,60,498,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,60,498,Pacific Pomfret,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,60,498,Sablefish,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,61,497.2,Baited Hook,12,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,61,497.2,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,61,497.2,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,61,497.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,62,496.4,Baited Hook,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,62,496.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,62,496.4,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,62,496.4,Sablefish,24,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,63,495.6,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,63,495.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,63,495.6,Sablefish,22,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,64,494.8,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,64,494.8,Sablefish,15,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,64,494.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,65,494,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,65,494,Ineffective Hook,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,65,494,Sablefish,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,66,493.8,Baited Hook,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,66,493.8,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,66,493.8,Sablefish,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,67,493.6,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,67,493.6,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,67,493.6,Sablefish,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Baited Hook,24,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Crinoid Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Sablefish,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,68,493.4,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,69,493.2,Baited Hook,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,69,493.2,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,69,493.2,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,69,493.2,Sablefish,1,1,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,70,493,Baited Hook,26,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,70,493,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,70,493,Sablefish,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,70,493,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,71,495,Baited Hook,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,71,495,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,71,495,Pacific Pomfret,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,71,495,Sablefish,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,72,497,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,72,497,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,72,497,Sablefish,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,73,499,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,73,499,Giant Grenadier,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,73,499,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,73,499,Pacific Pomfret,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,73,499,Sablefish,13,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,73,499,Shortspine Thornyhead,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,74,501,Baited Hook,23,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,74,501,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,74,501,Sablefish,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,74,501,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,75,503,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,75,503,Giant Grenadier,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,75,503,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,75,503,Longnose Skate,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,75,503,Sablefish,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,75,503,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,76,496.6,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,76,496.6,Giant Grenadier,4,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,76,496.6,Sablefish,18,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,77,490.2,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,77,490.2,Longnose Skate,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,77,490.2,Rougheye/Shortraker Rockfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,77,490.2,Sablefish,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,78,483.8,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,78,483.8,Sablefish,9,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,78,483.8,Spiny Dogfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,79,477.4,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,79,477.4,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,79,477.4,Sablefish,24,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,80,471,Baited Hook,11,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,80,471,Crinoid Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,80,471,Ineffective Hook,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,80,471,Sablefish,19,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,81,470.8,Baited Hook,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,81,470.8,Sablefish,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,81,470.8,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,82,470.6,Baited Hook,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,82,470.6,Sablefish,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,83,470.4,Baited Hook,21,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,83,470.4,Sablefish,20,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,83,470.4,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,84,470.2,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,84,470.2,Rougheye/Shortraker Rockfish,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,84,470.2,Sablefish,20,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,84,470.2,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,85,470,Baited Hook,20,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,85,470,Ineffective Hook,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,85,470,Sablefish,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,85,470,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,86,564,Baited Hook,17,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,86,564,Giant Grenadier,5,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,86,564,Sablefish,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,86,564,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,87,658,Baited Hook,10,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,87,658,Sablefish,14,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,88,752,Baited Hook,28,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,88,752,Crinoid Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,88,752,Ineffective Hook,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,88,752,Sablefish,6,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,88,752,Sea Anemone Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,89,846,Baited Hook,8,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,89,846,Rougheye/Shortraker Rockfish,3,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,89,846,Sablefish,25,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,89,846,Shortspine Thornyhead,2,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,89,846,Starfish Unidentified,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,90,940,Giant Grenadier,1,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,90,940,Sablefish,12,0,NA,NA,NA
+2023,2023-07-30,Hooks,203,107,90,940,Shortspine Thornyhead,1,0,NA,NA,NA
+2023,2023-07-30,Slinky pots,203,108,91,531,Sablefish,17,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,91,531,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,92,532,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,92,532,Sablefish,12,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,93,533,Sablefish,12,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,94,529,Empty pot,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,95,531,Sablefish,3,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,95,531,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,96,522,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,97,512,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,97,512,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,98,511,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,99,518,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,100,535,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,100,535,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,101,546,Sablefish,4,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,101,546,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,102,548,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,103,553,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,103,553,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,104,564,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,105,564,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,105,564,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,106,563,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,107,569,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,108,577,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,109,579,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,110,582,Sablefish,14,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,111,583,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,112,583,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,112,583,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,112,583,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,113,584,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,114,586,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,114,586,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,115,587,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,115,587,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,116,589,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,117,591,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,117,591,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,118,592,Trap door open,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,119,593,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,120,593,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,121,578,Sablefish,17,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,121,578,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,122,566,Sablefish,20,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,123,562,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,123,562,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,124,565,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,124,565,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,125,559,Sablefish,13,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,125,559,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,126,558,Sablefish,17,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,126,558,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,127,555,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,128,553,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,128,553,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,129,553,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,129,553,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,130,553,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,131,554,Sablefish,9,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,131,554,Sablefish,3,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,132,558,Sablefish,3,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,133,563,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,134,563,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,135,561,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,136,563,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,137,571,Sablefish,12,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,138,573,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,138,573,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,139,573,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,139,573,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,140,571,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,141,571,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,142,574,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,142,574,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,142,574,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,143,576,Sablefish,12,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,144,571,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,144,571,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,145,572,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,146,574,Sablefish,13,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,146,574,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,147,575,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,148,576,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,149,578,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,150,580,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,150,580,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,151,583,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,152,585,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,153,584,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,153,584,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,154,584,Sablefish,3,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,154,584,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,155,586,Sablefish,4,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,156,592,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,157,594,Sablefish,9,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,158,594,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,159,595,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,160,594,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,160,594,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,161,597,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,161,597,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,162,600,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,163,598,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,163,598,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,164,598,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,165,599,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,166,605,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,167,608,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,168,608,Lost pot,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,169,610,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,169,610,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,169,610,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,170,613,Sablefish,13,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,171,618,Sablefish,19,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,171,618,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,172,624,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,172,624,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,173,626,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,173,626,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,174,632,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,174,632,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,175,636,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,175,636,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,176,637,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,176,637,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,176,637,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,177,638,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,178,638,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,179,637,Sablefish,9,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,179,637,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,180,638,Sablefish,12,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,181,639,Angulatus Tanner Crab,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,181,639,Sablefish,9,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,182,638,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,183,640,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,183,640,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,184,641,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,185,642,Sablefish,17,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,185,642,Sablefish,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,186,645,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,187,646,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,187,646,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,188,647,Sablefish,20,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,189,648,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,189,648,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,190,650,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,191,651,Sablefish,11,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,192,652,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,193,654,Angulatus Tanner Crab,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,193,654,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,193,654,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,194,653,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,194,653,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,195,650,Giant Grenadier,2,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,195,650,Sablefish,16,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,196,648,Sablefish,13,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,197,648,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,198,649,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,198,649,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,199,650,Sablefish,8,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,199,650,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,200,649,Sablefish,10,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,200,649,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,201,650,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,202,650,Sablefish,15,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,203,651,Sablefish,9,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,203,651,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,204,652,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,205,652,Giant Grenadier,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,205,652,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,206,653,Sablefish,12,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,207,653,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,207,653,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,208,653,Sablefish,6,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,208,653,Bait bag lost or damaged,0,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,209,653,Sablefish,7,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,209,653,Sablefish,1,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,210,652,Sablefish,5,NA,Small,None,NA
+2023,2023-07-30,Slinky pots,203,108,210,652,Bait bag lost or damaged,0,NA,Small,None,NA

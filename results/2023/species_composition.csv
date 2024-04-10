@@ -1,0 +1,59 @@
+gear,station,species,n,prop,Species
+Hooks,Day 1,Angulatus Tanner Crab,2,0.0011926058437686344,Angulatus Tanner Crab
+Hooks,Day 1,Basketstarfish Unidentified,3,0.0017889087656529517,Basketstarfish Unidentified
+Hooks,Day 1,Blackfooted Albatross,1,5.963029218843172e-4,Blackfooted Albatross
+Hooks,Day 1,Giant Grenadier,56,0.033392963625521764,Giant Grenadier
+Hooks,Day 1,Jellyfish Unidentified,1,5.963029218843172e-4,Jellyfish Unidentified
+Hooks,Day 1,Pacific Pomfret,1,5.963029218843172e-4,Pacific Pomfret
+Hooks,Day 1,Sablefish,1536,0.9159212880143113,Sablefish
+Hooks,Day 1,Shortspine Thornyhead,75,0.044722719141323794,Shortspine Thornyhead
+Hooks,Day 1,Spiny Dogfish,2,0.0011926058437686344,Spiny Dogfish
+Hooks,Day 2,Basketstarfish Unidentified,4,0.002599090318388564,Basketstarfish Unidentified
+Hooks,Day 2,Blackfooted Albatross,1,6.49772579597141e-4,Blackfooted Albatross
+Hooks,Day 2,Crinoid Unidentified,1,6.49772579597141e-4,Crinoid Unidentified
+Hooks,Day 2,Giant Grenadier,57,0.037037037037037035,Giant Grenadier
+Hooks,Day 2,Sablefish,1386,0.9005847953216374,Sablefish
+Hooks,Day 2,Shortspine Thornyhead,88,0.057179987004548405,Shortspine Thornyhead
+Hooks,Day 2,Spiny Dogfish,2,0.001299545159194282,Spiny Dogfish
+Hooks,Day 3,Aleutian/Bering/Alaska Skate Complex,1,5.927682276229994e-4,Aleutian/Bering/Alaska Skate Complex
+Hooks,Day 3,Arrowtooth Flounder,1,5.927682276229994e-4,Arrowtooth Flounder
+Hooks,Day 3,Basketstarfish Unidentified,4,0.0023710729104919974,Basketstarfish Unidentified
+Hooks,Day 3,Blackfooted Albatross,1,5.927682276229994e-4,Blackfooted Albatross
+Hooks,Day 3,Coho Salmon,1,5.927682276229994e-4,Coho Salmon
+Hooks,Day 3,Crinoid Unidentified,4,0.0023710729104919974,Crinoid Unidentified
+Hooks,Day 3,Giant Grenadier,101,0.05986959098992294,Giant Grenadier
+Hooks,Day 3,Jellyfish Unidentified,1,5.927682276229994e-4,Jellyfish Unidentified
+Hooks,Day 3,Longnose Skate,4,0.0023710729104919974,Longnose Skate
+Hooks,Day 3,Pacific Pomfret,3,0.0017783046828689982,Pacific Pomfret
+Hooks,Day 3,Rougheye Rockfish,2,0.0011855364552459987,Rougheye Rockfish
+Hooks,Day 3,Sablefish,1493,0.8850029638411381,Sablefish
+Hooks,Day 3,Sea Anemone Unidentified,1,5.927682276229994e-4,Sea Anemone Unidentified
+Hooks,Day 3,Shortraker Rockfish,5,0.002963841138114997,Shortraker Rockfish
+Hooks,Day 3,Shortspine Thornyhead,53,0.03141671606401897,Shortspine Thornyhead
+Hooks,Day 3,Spiny Dogfish,11,0.006520450503852994,Spiny Dogfish
+Hooks,Day 3,Starfish Unidentified,1,5.927682276229994e-4,Starfish Unidentified
+Slinky pots,Day 1,Angulatus Tanner Crab,2,0.001932367149758454,Angulatus Tanner Crab
+Slinky pots,Day 1,Bait bag lost or damaged,0,0,Bait bag lost or damaged
+Slinky pots,Day 1,Empty pot,3,0.002898550724637681,Empty pot
+Slinky pots,Day 1,Giant Grenadier,6,0.005797101449275362,Giant Grenadier
+Slinky pots,Day 1,Sablefish,1008,0.9739130434782609,Sablefish
+Slinky pots,Day 1,Shortspine Thornyhead,1,9.66183574879227e-4,Shortspine Thornyhead
+Slinky pots,Day 1,Snail Unidentified,14,0.01352657004830918,Snail Unidentified
+Slinky pots,Day 1,Snarled pot,0,0,Snarled pot
+Slinky pots,Day 1,Trap door open,1,9.66183574879227e-4,Trap door open
+Slinky pots,Day 2,Arrowtooth Flounder,2,0.0016764459346186086,Arrowtooth Flounder
+Slinky pots,Day 2,Bait bag lost or damaged,0,0,Bait bag lost or damaged
+Slinky pots,Day 2,Empty pot,1,8.382229673093043e-4,Empty pot
+Slinky pots,Day 2,Giant Grenadier,8,0.006705783738474434,Giant Grenadier
+Slinky pots,Day 2,Sablefish,1168,0.9790444258172674,Sablefish
+Slinky pots,Day 2,Sea Anemone Unidentified,1,8.382229673093043e-4,Sea Anemone Unidentified
+Slinky pots,Day 2,Shortspine Thornyhead,2,0.0016764459346186086,Shortspine Thornyhead
+Slinky pots,Day 2,Snail Unidentified,9,0.0075440067057837385,Snail Unidentified
+Slinky pots,Day 2,Trap door open,2,0.0016764459346186086,Trap door open
+Slinky pots,Day 3,Angulatus Tanner Crab,2,0.001899335232668566,Angulatus Tanner Crab
+Slinky pots,Day 3,Bait bag lost or damaged,0,0,Bait bag lost or damaged
+Slinky pots,Day 3,Empty pot,1,9.49667616334283e-4,Empty pot
+Slinky pots,Day 3,Giant Grenadier,9,0.008547008547008548,Giant Grenadier
+Slinky pots,Day 3,Lost pot,0,0,Lost pot
+Slinky pots,Day 3,Sablefish,1040,0.9876543209876543,Sablefish
+Slinky pots,Day 3,Trap door open,1,9.49667616334283e-4,Trap door open

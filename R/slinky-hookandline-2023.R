@@ -1,11 +1,11 @@
-# 2022 Slinky pot and Hook-and-line Comparison Study on the AFSC Longline Survey
-# July 2022, West Yakutat
+# 2023 Slinky pot and Hook-and-line Comparison Study on the AFSC Longline Survey
+# July 27, 28, 29. 2023, West Yakutat
 # Contact: jane.sullivan@noaa.gov
 
 # # Acknowledgements
 
 # Thank you to the F/V Alaskan Leader for the use of their slinky pot gear and
-# to Captain Dennis Black and his crew for their patience and expertise in
+# to Captain Dean and his crew for their patience and expertise in
 # making this pilot study a success. We are also grateful to Alexander Stubbs,
 # who has generously shared his slinky pot knowledge and whose insights improved
 # the design of this experiment.
@@ -22,8 +22,8 @@ theme_set(theme_bw(base_size = 15) +
                   panel.grid.minor = element_blank(), 
                   axis.line = element_line(colour = "black")))
 
-dat_path <- "data/llsrv_exp_2022/clean_data"
-res_path <- "results/2022"
+dat_path <- "data/llsrv_exp_2023/clean_data"
+res_path <- "results/2023"
 dir.create(res_path)
 
 colors <- c('#69b3a2', '#404080')
@@ -49,7 +49,6 @@ lengths <- dir_ls(path = dat_path, regexp = "lengths_haul_[0-9]{2,3}.csv") %>%
   bind_rows() %>% 
   mutate(gear = ifelse(gear == 'HAL', "Hooks", "Slinky pots"))
 
-
 catch <- catch %>% 
   left_join(spp_lkup_catch) %>% 
   mutate(station = case_when(station == 201 ~ "Day 1",
@@ -68,8 +67,8 @@ lengths <- lengths %>%
 # EMPTY POT: species_code == 1 == 'Baited hook'
 # POT DOOR OPEN: species_code == 2 == 'Ineffective hook'
 # FISH STUCK IN MESH or ESCAPE RING: depredation == 1 (the count of these = the
-# number of fish stuck in ring); note that the 2022 experiment closed the escape
-# rings
+# number of fish stuck in ring); note that the 2023 experiment we fished with
+# the escape rings open (4 3.5" rings on ea pot)
 # LOST POT == 172 == 'Alaskan false jingle'
 # SNARLED POT = 87 == 'Blackfooted albatross'
 # BROKEN OR LOST BAIT BAG == 181 == 'unsorted shark'
@@ -119,17 +118,19 @@ catchsum <- catchsum %>%
   # remove depredation flag for pots 
   mutate(depredation = ifelse(gear == "Slinky pots", NA, depredation))
 
-catchsum %>% print(n = Inf)
-
+catchsum %>% print(n=Inf)
+catchsum %>% head
+catchsum %>% filter(!is.na(escape_ring)) %>% summarise(sum(catch))
+catchsum %>% filter(species == 'Sablefish') %>% summarise(sum(catch))
 # Station table ----
 
 # Start and end locations, number of pots or skates actually fished
 station_tbl <- data.frame(Station = c("E1", "", 
                                       "E2",  "",
                                       "E3",  ""), 
-                          Date = c("07/28/2022",  "", 
-                                   "07/29/2022",  "", 
-                                   "07/30/2022",  ""),
+                          Date = c("07/27/2023",  "", 
+                                   "07/28/2023",  "", 
+                                   "07/29/2023",  ""),
                           # start and end = start of set to start of haul (first buoy set to first buoy hauled)
                           start_time = c(642, 500,
                                          617, 500,
@@ -280,7 +281,7 @@ catchrates <- catchrates %>%
   mutate(depth = plyr::round_any(interp_depth, 25, floor)) %>%
   arrange(haul, depth)  
 
-write.csv(catchrates, here::here("results", "2022", "2022_catchrates_clean.csv"))
+write_csv(catchrates, paste0(res_path, '/2023_catchrates_clean.csv'))
 
 dep_catchrate_plot <- catchrates %>% 
   group_by(gear, station, depth) %>% 
@@ -507,7 +508,6 @@ sppcomp_plot <- sppcomp %>%
   scale_colour_viridis(discrete = TRUE, option = 'A', direction = -1) +
   labs(x = "Gear type", y = "Proportion by number", 
        title = "Hook vs. slinky pot catch composition",
-       # subtitle = "2021 AFSC longline survey")
        subtitle = "(Fish and crustacean species only)")
 
 sppcomp_plot
@@ -797,13 +797,13 @@ ggsave(paste0(res_path, "/giantgrenadier_length_comps.png"), dpi = 400, units = 
 # turbot are recorded by sex
 
 lengths_clean <- lengths %>% 
-  mutate(year = 2022,
+  mutate(year = 2023,
          stratum = ifelse(stratum == 5, '401-600 m', '601-800 m'),
          sex = ifelse(species %in% c("Sablefish", "Giant Grenadier", "Spiny Dogfish"),
                   sex, "U"),
-         date = as.Date(case_when(station == 'Day 1' ~ '2022/07/28',
-                             station == 'Day 2' ~ '2022/07/29',
-                             station == 'Day 3' ~ '2022/07/30')),
+         date = as.Date(case_when(station == 'Day 1' ~ '2023/07/27',
+                             station == 'Day 2' ~ '2023/07/28',
+                             station == 'Day 3' ~ '2023/07/29')),
          station = case_when(station == 'Day 1' ~ 201,
                              station == 'Day 2' ~ 202,
                              station == 'Day 3' ~ 203),
@@ -827,10 +827,10 @@ catch_clean <- catchsum %>%
               ungroup(),
             by = c("station", "haul", "skate"),
             multiple = "all") %>% 
-  mutate(year = 2022,
-         date = as.Date(case_when(station == 'Day 1' ~ '2022/07/28',
-                                  station == 'Day 2' ~ '2022/07/29',
-                                  station == 'Day 3' ~ '2022/07/30')),
+  mutate(year = 2023,
+         date = as.Date(case_when(station == 'Day 1' ~ '2023/07/28',
+                                  station == 'Day 2' ~ '2023/07/29',
+                                  station == 'Day 3' ~ '2023/07/30')),
          station = case_when(station == 'Day 1' ~ 201,
                              station == 'Day 2' ~ 202,
                              station == 'Day 3' ~ 203),
@@ -842,8 +842,8 @@ catch_clean <- catchsum %>%
 
 
 lengths_clean
-write_csv(lengths_clean, paste0("results/synthesis/clean_lengths_2022.csv"))
+write_csv(lengths_clean, paste0("results/synthesis/clean_lengths_2023.csv"))
 
 catch_clean
-write_csv(catch_clean, paste0("results/synthesis/clean_catch_2022.csv"))
+write_csv(catch_clean, paste0("results/synthesis/clean_catch_2023.csv"))
 

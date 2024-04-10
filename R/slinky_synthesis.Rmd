@@ -14,7 +14,8 @@ library(ggthemes)
 # Bring in sable fish catch rate data
 sabcatch_rates <- read.csv(here("results", "2021", "2021_catchrates_clean.csv")) %>% 
   mutate(year = 2021) %>% 
-  bind_rows(read.csv(here("results", "2022", "2022_catchrates_clean.csv")) %>% mutate(year = 2022)) 
+  bind_rows(read.csv(here("results", "2022", "2022_catchrates_clean.csv")) %>% mutate(year = 2022)) %>% 
+  bind_rows(read.csv(here("results", "2023", "2023_catchrates_clean.csv")) %>% mutate(year = 2023)) 
 
 # Munging gear names and station names
 sabcatch_rates <- sabcatch_rates %>% 
@@ -27,9 +28,10 @@ sabcatch_rates <- sabcatch_rates %>%
                             station == 'Exp_Set2' ~ 202,
                             station == 'Exp_Set3' ~ 203))
 
-# Bind in length data
+# Bring in length data
 lens <- read_csv(here("results", "synthesis", "clean_lengths_2021.csv")) %>% 
-  bind_rows(read_csv(here("results", "synthesis", "clean_lengths_2022.csv")))
+  bind_rows(read_csv(here("results", "synthesis", "clean_lengths_2022.csv"))) %>% 
+  bind_rows(read_csv(here("results", "synthesis", "clean_lengths_2023.csv")))
 ```
 
 # Length distributions (Aggregate)
@@ -125,6 +127,26 @@ lens %>%
   facet_wrap(~stratum, ncol = 1) +
   theme_bw() +
   theme(legend.position = "top") 
+
+# Median lengths by gear, year, and depth stratum
+median_sab_lens <- lens %>% 
+  filter(species == "Sablefish" & stratum != '301-400 m') %>% 
+  group_by(year, gear, stratum) %>% 
+  summarize(median = median(length))
+
+# Gear, year, and depth stratum
+lens %>% 
+  filter(species == "Sablefish" & stratum != '301-400 m') %>% 
+  ggplot(aes(x = length, fill = gear)) +
+  geom_density(alpha = 0.5)  +
+  geom_vline(median_sab_lens, mapping = aes(xintercept = median,
+                                            color = gear, lty = gear), size = 1.5) +
+  labs(x = "Length (cm)", y = "Probability Density",
+       fill = "Gear", lty = "Gear", color = "Gear") +
+  facet_grid(year~stratum) +
+  theme_bw(base_size = 17) +
+  theme(legend.position = "top") 
+
 
 # Sablefish lengths aggregated stations and stratum
 median_sab_lens <- lens %>% 
